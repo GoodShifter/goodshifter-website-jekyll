@@ -40,6 +40,6 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-backend:
-  name: github
-  repo: GoodShifter/goodshifter-website-jekyll
+# backend:
+#   name: github
+#   repo: GoodShifter/goodshifter-website-jekyll
