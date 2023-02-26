@@ -24,8 +24,20 @@ media_folder: "assets/images/uploads" # Media files will be stored in the repo u
 #       - {label: "Body", name: "body", widget: "markdown"}
 
 collections:
+  - name: "posts"
+    label: "All Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Language", name: "language"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "tips_fr"
-    label: "Post in French"
+    label: "Posts in French"
     folder: "_posts/tips/fr"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{language}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-fr-title.md
