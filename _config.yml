@@ -1,9 +1,10 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+name: 'GoodShifter'
+description: 'GoodShifter - The app guiding consumers towards better habits, with small but impactful steps.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
+url: "https://goodshifter.com"
+baseurl: 
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
