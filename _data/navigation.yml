@@ -1,0 +1,9 @@
+languages: 
+  - language: "en"
+    links: 
+      - title: "Home"
+        url: ""
+  - language: "fr"
+    links: 
+      - title: "Accueil"
+        url: ""
