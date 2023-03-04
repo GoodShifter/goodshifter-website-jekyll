@@ -2,7 +2,6 @@
 lang: "en"
 slug: "nope"
 title:  "Pintereso Jekyll Theme"
-categories: [ Free, UI, Jekyll, Templates ]
 image: "/assets/images/pintereso.jpg"
 
 metadate: "hide"
