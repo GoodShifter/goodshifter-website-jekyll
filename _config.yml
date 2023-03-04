@@ -1,16 +1,32 @@
 # Site
 name: 'GoodShifter'
 description: 'GoodShifter - The app guiding consumers towards better habits, with small but impactful steps.'
+
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+
 url: "https://goodshifter.com"
-baseurl: 
+baseurl: ""
+
 avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
+disqus: 'goodshifter'
 email: 'wowthemesnet@gmail.com'
 
-include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:title/
+
+include:
+  - _pages
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude:
+  - README.markdown
+  - package.json
+  - grunt.js
+  - Gruntfile.js
+  - Gruntfile.coffee
+  - node_modules
+  - _archives
+  - _examples
 
 # Plugins
 plugins: 
@@ -18,30 +34,40 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
  
 # Defaults
 defaults:
-
   # all posts
   - scope:
-      path: "_posts"
+      path: "*/_posts"
     values:
       layout: post
+      comments: true
       
   # all pages
   - scope:
-      path: "_pages"
+      path: "*/_pages"
     values:
       layout: page
-      
-      
+      comments: false
+
+  # Français
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
+
+  #English
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Pagination
 paginate: 20
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
