@@ -266,6 +266,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   webrick (~> 1.8)
