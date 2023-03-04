@@ -1,0 +1,49 @@
+<!-- List Posts and Pages with the same slug -->
+{% if page.slug %}
+    {% assign slug=page.slug %}
+    {% assign posts=site.posts | where: "slug", slug %}
+    {% assign pages=site.pages | where: "slug", slug %}
+{% else %}
+    {% assign slug=page.title %}
+    {% assign posts=site.posts | where: "slug", slug %}
+    {% assign pages=site.pages | where: "title", slug %}
+{% endif %}
+
+
+{% comment %}
+<!-- For Debug -->
+<h2>posts: {{ posts.size }}</h2>
+<h2>pages: {{ pages.size }}</h2>
+{% endcomment %}
+
+<!-- Create empty list -->
+{% assign langs = "" | split,"" %}
+
+<!-- Collect Languages -->
+{% for p in posts %}
+    {% if p.lang %}
+        {% assign langs = langs | push: p.lang %}
+    {% endif %}
+{% endfor %}
+{% for p in pages %}
+    {% if p.lang %}
+        {% assign langs = langs | push: p.lang %}
+    {% endif %}
+{% endfor %}
+
+<!-- Unique and Sort -->
+{% assign langs = langs | sort:"lang" | uniq %}
+
+<ul class="language" style="list-style-type:none; padding:0">
+    {% for lang in langs %}
+    <li>
+        {% if page.slug=="index" %}
+            <a href="{{ site.base-url }}/{{ lang }}/"
+            title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
+        {% else %}
+            <a href="{{ site.base-url }}/{{ lang }}/{{ page.slug }}"
+            title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
