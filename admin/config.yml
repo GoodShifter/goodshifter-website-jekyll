@@ -15,26 +15,14 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Language", name: "lang", default: "fr"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "list"}
-
-  - name: "pages_fr"
-    label: "Pages FR"
-    folder: "fr/_pages"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "pages"}
-      - {label: "Language", name: "lang", default: "fr"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: true}
 
   - name: "posts_en"
     label: "Posts EN"
@@ -43,12 +31,31 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Language", name: "lang", default: "en"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: true}
+
+  - name: "pages_fr"
+    label: "Pages FR"
+    folder: "fr/_pages"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "pages"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: false}
 
   - name: "pages_en"
     label: "Pages EN"
@@ -57,9 +64,12 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Language", name: "lang", default: "en"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: false}
