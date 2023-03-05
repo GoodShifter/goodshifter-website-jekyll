@@ -1,4 +1,4 @@
-ErrorDocument 404 /error_404.html
+ErrorDocument 404 /404.html
 
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.fr$
