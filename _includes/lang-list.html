@@ -1,31 +1,42 @@
-<!-- List Posts and Pages with the same slug -->
-{% if page.slug %}
-    {% assign slug=page.slug %}
-    {% assign posts=site.posts | where: "slug", slug %}
-    {% assign pages=site.pages | where: "slug", slug %}
+<!-- Collect the lang-ref, defaulting slug or title -->
+{% if page.lang-ref %}
+    {% assign lang-ref=page.lang-ref %}
+{% elsif page.slug %}
+    {% assign lang-ref=page.slug %}
 {% else %}
-    {% assign slug=page.title %}
-    {% assign posts=site.posts | where: "slug", slug %}
-    {% assign pages=site.pages | where: "title", slug %}
+    {% assign lang-ref=page.title %}
 {% endif %}
 
+<!-- List posts and pages with corresponding lang-ref -->
+{% assign targets = "" | split,"" %}
 
-{% comment %}
+{% for p in site.posts %}
+    {% if p.lang-ref==lang-ref or p.slug==lang-ref or p.title==lang-ref %}
+        {% assign targets = targets | push: p %}
+    {% endif %}
+{% endfor %}
+{% for p in site.pages %}
+    {% if p.lang-ref==lang-ref or p.slug==lang-ref or p.title==lang-ref %}
+        {% assign targets = targets | push: p %}
+    {% endif %}
+{% endfor %}
+
+{% assign posts=site.posts | where: "lang-ref", lang-ref %}
+{% assign pages=site.pages | where: "lang-ref", lang-ref %}
+
 <!-- For Debug -->
-<h2>posts: {{ posts.size }}</h2>
-<h2>pages: {{ pages.size }}</h2>
+{% comment %}
+<h3>lang-ref: {{ lang-ref }}</h3>
+<h3>posts: {{ posts.size }}</h3>
+<h3>pages: {{ pages.size }}</h3>
+<h3>targets: {{ targets.size }}</h3>
 {% endcomment %}
 
 <!-- Create empty list -->
 {% assign langs = "" | split,"" %}
 
 <!-- Collect Languages -->
-{% for p in posts %}
-    {% if p.lang %}
-        {% assign langs = langs | push: p.lang %}
-    {% endif %}
-{% endfor %}
-{% for p in pages %}
+{% for p in targets %}
     {% if p.lang %}
         {% assign langs = langs | push: p.lang %}
     {% endif %}
@@ -38,10 +49,16 @@
     {% for lang in langs %}
     <li>
         {% if page.slug=="index" %}
-            <a href="{{ site.base-url }}/{{ lang }}/"
+            <a href="{{ site.baseurl }}/{{ lang }}/"
             title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
         {% else %}
-            <a href="{{ site.base-url }}/{{ lang }}/{{ page.slug }}"
+            {% assign slugs = "" | split,"" %}
+            {% for i in targets %}
+                {% if i.lang==lang %}
+                {% assign slugs = slugs | push: i.slug %}
+                {% endif %}
+            {% endfor %}
+            <a href="{{ site.baseurl }}/{{ lang }}/{{ slugs | first }}"
             title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
         {% endif %}
     </li>

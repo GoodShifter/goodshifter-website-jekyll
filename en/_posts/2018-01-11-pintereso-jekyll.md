@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang-ref: "nope"
 slug: "nope"
 title:  "Pintereso Jekyll Theme"
 image: "/assets/images/pintereso.jpg"

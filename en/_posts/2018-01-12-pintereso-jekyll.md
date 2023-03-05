@@ -1,5 +1,6 @@
 ---
 lang: "en"
+lang-ref: "prototype"
 slug: "prototype"
 title:  "Pintereso Jekyll Theme"
 image: "/assets/images/pintereso.jpg"
