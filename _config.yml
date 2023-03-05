@@ -16,6 +16,8 @@ permalink: /:categories/:title/
 
 include:
   - _pages
+  - .htaccess
+  - error_404.md
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:

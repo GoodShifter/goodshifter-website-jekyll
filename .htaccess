@@ -1,0 +1,15 @@
+ErrorDocument 404 /error_404.html
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.fr$
+RewriteRule ^(/)?$ fr [L]
+
+// RewriteEngine On
+// RewriteCond %{https} off
+// RewriteRule ^(.*)$ https://www.ExampleURL.com/$1 [R=301,L]
+
+// RewriteCond %{HTTP_HOST} ^(www\.)?domain2.com$ [NC]
+// RewriteRule ^(.*) http://somewiredisp.com/user/bla/$1 [L,R]
+
+// RewriteCond %{HTTP_HOST} ^(www\.)?domain2\.com$ [NC]
+// RewriteRule !^subdir/ /subdir%{REQUEST_URI} [L,NC]
