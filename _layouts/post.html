@@ -89,6 +89,14 @@ layout: default
                   {% endfor %}
                   {% endif %}
 
+                  {% if nexturl==page.url %}
+                  {% assign nexturl = posts[0].url %}
+                  {% endif %}
+
+                  {% if prevurl==page.url %}
+                  {% assign prevurl = posts[-1].url %}
+                  {% endif %}
+
                   <!-- Display previous and next buttons -->
                   {% if prevurl != nil %}
 	                  <a class="prev" href="{{site.baseurl}}{{prevurl}}"><i class="fa fa-angle-left"></i> </a>
