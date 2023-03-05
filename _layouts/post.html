@@ -9,9 +9,11 @@ layout: default
     			<article class="card">
                     
                  {% if page.image %} 
+                    {% comment %}
                     <span class="pinme">
                         <a data-pin-do="buttonPin" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/?url={{site.url}}{{site.baseurl}}{{page.url}}&media={{site.url}}{{site.baseurl}}/{{page.image}}&description={{ page.title }}- {{ page.content | strip_html | truncatewords:25 }}"></a>
                     </span>
+                    {% endcomment %}
                     <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
                 {% endif %}
                     
@@ -38,9 +40,9 @@ layout: default
                     </p>
                     {% endif %}
                     
-                    {% for category in page.categories %}
-                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
-                        # {{ category | downcase }}
+                    {% for tag in page.tags %}
+                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">
+                        # {{ tag | downcase }}
                       </a>
                     {% endfor %}
                     
