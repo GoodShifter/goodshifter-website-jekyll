@@ -14,16 +14,16 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["fr"]}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: ["fr"]}
 
   - name: "posts_en"
     label: "Posts EN"
@@ -31,16 +31,16 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["en"]}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: ["en"]}
 
   - name: "pages_fr"
     label: "Pages FR"
@@ -48,17 +48,17 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "pages"}
-      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["fr"]}
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "pages"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "fr"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: ["fr"]}
 
   - name: "pages_en"
     label: "Pages EN"
@@ -66,14 +66,14 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["en"]}
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Language", name: "lang", widget: "hidden", default: "en"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: ["en"]}
