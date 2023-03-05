@@ -54,13 +54,63 @@ layout: default
                 
                 <div class="PageNavigation">
 
-                  <!-- Navigation through category -->
+                  <!-- Find posts of the same category (language folder) -->
+                  {% if page.categories[0] %}
+                  {% assign posts = site.posts | where_exp: "post", "post.categories[0]==page.categories[0]"  %}
+                  
+                  {% comment %}
+                  <h1>cat: {{page.categories[0]}}</h1>
+                  <h1>posts: {{posts.size}}</h1>
+                  {% endcomment %}
+
+                  <!-- Initiate previous and next URLs -->
+                  {% if posts.size > 1 %}
+                    {% assign prevurl = posts.last.url | remove: ".html" %}
+                    {% assign nexturl = posts.first.url | remove: ".html" %}
+                  {% endif %}
+
+                  {% comment %}
+                  <h1>prev: {{prevurl}}</h1>
+                  <h1>next: {{nexturl}}</h1>
+                  {% endcomment %}
+
+                  <!-- Find real previous and next URLs -->
+                  {% for links in posts %}
+                    {% if links.title == page.title %}
+                      {% unless forloop.first %}
+                        {% assign prevurl = prev.url %}
+                      {% endunless %}
+                      {% unless forloop.last %}
+                        {% assign next = posts[forloop.index] %}
+                        {% assign nexturl = next.url %}
+                      {% endunless %}
+                    {% endif %}
+                    {% assign prev = links %}
+                  {% endfor %}
+                  {% endif %}
+
+                  <!-- Display previous and next buttons -->
+                  {% if prevurl != nil %}
+	                  <a class="prev" href="{{site.baseurl}}{{prevurl}}"><i class="fa fa-angle-left"></i> </a>
+                  {% endif %}
+                  {% if nexturl != nil %}
+                    <a class="next" href="{{site.baseurl}}{{nexturl}}"><i class="fa fa-angle-right"></i> </a>
+                  {% endif %}
+
+                  {% comment %}
+                  <h1>prev: {{prevurl}}</h1>
+                  <h1>next: {{nexturl}}</h1>
+                  {% endcomment %}
+                  
+                  <!-- Navigation through category - Local only, Github doesn't run plugins (safe mode) -->
+                  {% comment %}
                   {% if page.next_in_category != nil %}
 	                  <a class="prev" href="{{site.baseurl}}{{page.next_in_category.url}}"><i class="fa fa-angle-left"></i> </a>
                   {% endif %}
                   {% if page.previous_in_category != nil %}
                     <a class="next" href="{{site.baseurl}}{{page.previous_in_category.url}}"><i class="fa fa-angle-right"></i> </a>
                   {% endif %}
+                  {% endcomment %}
 
                   <!-- Navigation through all posts -->
                   {% comment %}
