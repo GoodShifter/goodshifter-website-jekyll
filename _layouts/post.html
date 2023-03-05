@@ -73,42 +73,45 @@ layout: default
                   <h1>prev: {{prevurl}}</h1>
                   <h1>next: {{nexturl}}</h1>
                   {% endcomment %}
-
+                  
                   <!-- Find real previous and next URLs -->
                   {% for links in posts %}
-                    {% if links.title == page.title %}
-                      {% unless forloop.first %}
-                        {% assign prevurl = prev.url %}
-                      {% endunless %}
-                      {% unless forloop.last %}
-                        {% assign next = posts[forloop.index] %}
-                        {% assign nexturl = next.url %}
-                      {% endunless %}
-                    {% endif %}
-                    {% assign prev = links %}
+                  {% if links.title == page.title %}
+                  {% unless forloop.first %}
+                  {% assign prevurl = prev.url %}
+                  {% endunless %}
+                  {% unless forloop.last %}
+                  {% assign next = posts[forloop.index] %}
+                  {% assign nexturl = next.url %}
+                  {% endunless %}
+                  {% endif %}
+                  {% assign prev = links %}
                   {% endfor %}
                   {% endif %}
-
+                  
+                  {% comment %}
+                  <h1>prev: {{prevurl}}</h1>
+                  <h1>next: {{nexturl}}</h1>
+                  <h1>next to replace: {{posts[0].url}}</h1>
+                  <h1>prev to replace: {{posts[-1].url}}</h1>
+                  {% endcomment %}
+                  
                   {% if nexturl==page.url %}
                   {% assign nexturl = posts[0].url %}
                   {% endif %}
-
+                  
                   {% if prevurl==page.url %}
                   {% assign prevurl = posts[-1].url %}
                   {% endif %}
 
                   <!-- Display previous and next buttons -->
                   {% if prevurl != nil %}
-	                  <a class="prev" href="{{site.baseurl}}{{prevurl}}"><i class="fa fa-angle-left"></i> </a>
+	                  <!-- <a class="prev" href="{{site.baseurl}}{{prevurl}}"><i class="fa fa-angle-left"></i> </a> -->
                   {% endif %}
                   {% if nexturl != nil %}
-                    <a class="next" href="{{site.baseurl}}{{nexturl}}"><i class="fa fa-angle-right"></i> </a>
+                    <!-- <a class="next" href="{{site.baseurl}}{{nexturl}}"><i class="fa fa-angle-right"></i> </a> -->
                   {% endif %}
 
-                  {% comment %}
-                  <h1>prev: {{prevurl}}</h1>
-                  <h1>next: {{nexturl}}</h1>
-                  {% endcomment %}
                   
                   <!-- Navigation through category - Local only, Github doesn't run plugins (safe mode) -->
                   {% comment %}
