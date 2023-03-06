@@ -14,7 +14,7 @@ collections:
   - name: "posts_fr"
     label: "Posts FR"
     folder: "fr/_posts"
-    preview_path: fr/{{slug}}
+    preview_path: fr/{{fields.slug}}
     # preview_path_date_field: date
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
