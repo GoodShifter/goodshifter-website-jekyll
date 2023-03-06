@@ -21,6 +21,7 @@ collections:
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -41,6 +42,7 @@ collections:
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -61,6 +63,7 @@ collections:
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
@@ -82,6 +85,7 @@ collections:
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
