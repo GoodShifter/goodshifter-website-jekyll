@@ -7,15 +7,14 @@ publish_mode: editorial_workflow
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "assets/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-editor:
-  - preview: false
-
 collections:
   - name: "posts_fr"
     label: "Posts FR"
     folder: "fr/_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      - preview: false
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -34,6 +33,8 @@ collections:
     folder: "en/_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      - preview: false
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -52,6 +53,8 @@ collections:
     folder: "fr/_pages"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      - preview: false
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -71,6 +74,8 @@ collections:
     folder: "en/_pages"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      - preview: false
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
