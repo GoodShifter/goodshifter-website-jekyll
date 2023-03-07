@@ -1,7 +1,6 @@
 ---
 lang-ref: test-lang-ref
 slug: test-slug
-path: test-path
 title: test-title
 tags:
   - test-tag

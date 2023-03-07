@@ -15,13 +15,11 @@ collections:
     label: "Posts FR"
     folder: "fr/_posts"
     preview_path: fr/{{fields.slug}}
-    # preview_path_date_field: date
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Path", name: "path", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -35,14 +33,12 @@ collections:
   - name: "posts_en"
     label: "Posts EN"
     folder: "en/_posts"
-    preview_path: en/{{slug}}
-    # preview_path_date_field: date
+    preview_path: en/{{fields.slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Path", name: "path", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -56,14 +52,12 @@ collections:
   - name: "pages_fr"
     label: "Pages FR"
     folder: "fr/_pages"
-    preview_path: fr/{{slug}}
-    # preview_path_date_field: date
+    preview_path: fr/{{fields.slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Path", name: "path", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
@@ -78,14 +72,12 @@ collections:
   - name: "pages_en"
     label: "Pages EN"
     folder: "en/_pages"
-    preview_path: en/{{slug}}
-    # preview_path_date_field: date
+    preview_path: en/{{fields.slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Lang-Ref", name: "lang-ref", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Path", name: "path", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
