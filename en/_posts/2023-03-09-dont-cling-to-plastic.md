@@ -3,7 +3,8 @@ lang-ref: beeswaxwrap
 slug: beeswaxwrap
 title: Don't cling to plastic!
 tags:
-  - "#clingfilm #beeswaxwrap"
+  - clingfilm
+  - beeswaxwrap
 image: assets/images/uploads/image-09-03-2023-at-14.09-2-.jpeg
 date: 2023-03-09T13:41:40.023Z
 comments: true
