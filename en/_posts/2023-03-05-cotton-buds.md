@@ -4,7 +4,7 @@ slug: cotton-buds
 title: Cotton Buds
 tags:
   - cotton
-image: assets/images/uploads/image-09-03-2023-at-14.09.jpeg
+image: assets/images/uploads/image-09-03-2023-at-14.08.jpeg
 date: 2023-03-05T02:48:54.015Z
 comments: true
 layout: post
