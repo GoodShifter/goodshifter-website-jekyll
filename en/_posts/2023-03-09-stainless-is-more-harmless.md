@@ -3,7 +3,9 @@ lang-ref: stainlesssteelpan
 slug: stainlesssteelpan
 title: Stainless is more harmless!
 tags:
-  - "#nonstickpan #stainlesssteelpan #PFOA"
+  - "#nonstickpan"
+  - "#stainlesssteelpan"
+  - "#PFOA"
 image: assets/images/uploads/image-09-03-2023-at-14.09-5-.jpeg
 date: 2023-03-09T13:52:53.879Z
 comments: true
