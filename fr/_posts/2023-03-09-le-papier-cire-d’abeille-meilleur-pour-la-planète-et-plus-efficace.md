@@ -3,7 +3,10 @@ lang-ref: papierciredabeille
 slug: papierciredabeille
 title: Le papier cire d’abeille, meilleur pour la planète et plus efficace!
 tags:
-  - "#papierciredabeille #filmetirable #planete #plastic"
+  - papierciredabeille
+  - filmetirable
+  - planete
+  - plastic
 image: assets/images/uploads/image-09-03-2023-at-14.09-3-.jpeg
 date: 2023-03-09T14:20:07.677Z
 comments: true
