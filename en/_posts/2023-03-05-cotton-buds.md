@@ -1,7 +1,7 @@
 ---
 lang-ref: cotton-buds
 slug: cotton-buds
-title: Cotton Buds
+title: Choose reusable cotton!
 tags:
   - cotton
 image: assets/images/uploads/image-09-03-2023-at-14.08.jpeg
