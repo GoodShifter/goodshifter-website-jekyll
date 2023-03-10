@@ -1,6 +1,6 @@
 ---
-lang-ref: poeleinoxydable
-slug: poeleinoxydable
+lang-ref: stainless-steel-pan
+slug: poele-inoxydable
 title: "Santé et planète : troquez l'antiadhésif pour l'inoxydable!"
 tags:
   - "#PFAO #HPFODA #poele #polluanteternel"
