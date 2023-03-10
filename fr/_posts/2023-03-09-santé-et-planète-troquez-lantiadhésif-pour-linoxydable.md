@@ -5,7 +5,7 @@ title: "Santé et planète : troquez l'antiadhésif pour l'inoxydable!"
 tags:
   - PFAO
   - HPFODA
-  - pole
+  - poêle
   - polluant éternel
 image: assets/images/uploads/image-09-03-2023-at-14.09-4-.jpeg
 date: 2023-03-09T14:33:42.425Z

@@ -3,7 +3,11 @@ lang-ref: whole-grain-pastas
 slug: pates-completes
 title: Les pâtes complètes boostent votre santé!
 tags:
-  - pastas
+  - pâtes
+  - nourriture
+  - santé
+  - régime
+  - nutriments
 image: assets/images/uploads/image-10-03-2023-at-10.42.jpeg
 date: 2023-03-05T01:51:53.748Z
 comments: true
