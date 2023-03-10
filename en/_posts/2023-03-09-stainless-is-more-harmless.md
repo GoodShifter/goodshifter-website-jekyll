@@ -1,6 +1,6 @@
 ---
-lang-ref: stainlesssteelpan
-slug: stainlesssteelpan
+lang-ref: stainless-steel-pan
+slug: stainless-steel-pan
 title: Stainless is more harmless!
 tags:
   - nonstickpan
