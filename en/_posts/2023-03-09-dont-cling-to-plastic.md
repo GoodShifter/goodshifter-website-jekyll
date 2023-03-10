@@ -1,6 +1,6 @@
 ---
-lang-ref: beeswaxwrap
-slug: beeswaxwrap
+lang-ref: beeswax-wrap
+slug: beeswax-wrap
 title: Don't cling to plastic!
 tags:
   - clingfilm
