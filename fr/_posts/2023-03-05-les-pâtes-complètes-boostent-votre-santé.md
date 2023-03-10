@@ -4,7 +4,7 @@ slug: pates-completes
 title: Les pâtes complètes boostent votre santé!
 tags:
   - pastas
-image: assets/images/uploads/image-09-03-2023-at-14.09-1-.jpeg
+image: assets/images/uploads/image-10-03-2023-at-10.42.jpeg
 date: 2023-03-05T01:51:53.748Z
 comments: true
 layout: post
