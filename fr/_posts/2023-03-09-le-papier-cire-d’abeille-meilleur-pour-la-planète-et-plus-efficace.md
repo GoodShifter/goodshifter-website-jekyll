@@ -1,6 +1,6 @@
 ---
-lang-ref: papierciredabeille
-slug: papierciredabeille
+lang-ref: stainless-steel-pan
+slug: papier-cire-d-abeille
 title: Le papier cire d’abeille, meilleur pour la planète et plus efficace!
 tags:
   - papier cire d'abeille
