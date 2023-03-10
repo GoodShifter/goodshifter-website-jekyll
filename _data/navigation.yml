@@ -3,7 +3,11 @@ languages:
     links: 
       - title: "Home"
         url: ""
+      - title: "The Project"
+        url: "the-project"
   - language: "fr"
     links: 
       - title: "Accueil"
         url: ""
+      - title: "Le Projet"
+        url: "le-projet"
