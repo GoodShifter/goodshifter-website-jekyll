@@ -41,7 +41,7 @@ layout: default
                     {% endif %}
                     
                     {% for tag in page.tags %}
-                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">
+                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}" style="background-color: #4aafea !important; border-color: #4aafea !important;">
                         # {{ tag | downcase }}
                       </a>
                     {% endfor %}

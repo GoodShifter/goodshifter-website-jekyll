@@ -50,7 +50,7 @@
     <li>
         {% if page.slug=="index" %}
             <a href="{{ site.baseurl }}/{{ lang }}/"
-            title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
+            title="View in {{ site.data.languages[lang].label }}" style="color: #4aafea !important;">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
         {% else %}
             {% assign slugs = "" | split,"" %}
             {% for i in targets %}
@@ -59,7 +59,7 @@
                 {% endif %}
             {% endfor %}
             <a href="{{ site.baseurl }}/{{ lang }}/{{ slugs | first }}"
-            title="View in {{ site.data.languages[lang].label }}">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
+            title="View in {{ site.data.languages[lang].label }}" style="color: #4aafea !important;">{{ site.data.languages[lang].icon }} {{ site.data.languages[lang].label }}</a>
         {% endif %}
     </li>
     {% endfor %}
