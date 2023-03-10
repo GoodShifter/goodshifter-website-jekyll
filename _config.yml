@@ -3,7 +3,7 @@ name: 'GoodShifter'
 description: 'GoodShifter - The app guiding consumers towards better habits, with small but impactful steps.'
 
 logo: 'assets/images/GoodShifter - Logo v1.png'
-favicon: 'assets/images/GoodShifter - Logo v1.png'
+favicon: 'assets/images/favicon.png'
 
 url: "https://goodshifter.com"
 baseurl: ""
