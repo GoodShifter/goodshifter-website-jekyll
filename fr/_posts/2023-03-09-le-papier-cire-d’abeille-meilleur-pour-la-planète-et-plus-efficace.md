@@ -24,3 +24,7 @@ Les emballages en cire d'abeille sont une alternative  à l'emballage en plastiq
 5. Antibactérien : La cire d'abeille a des propriétés antibactériennes naturelles qui peuvent aider à garder les aliments frais plus longtemps. Il repousse également l'eau et empêche les bactéries de se développer, ce qui en fait un matériau idéal pour le stockage des aliments.
 
 Dans l'ensemble, l'utilisation de pellicules de cire d'abeille est meilleure pour l'environnement et votre santé que le film étirable.
+
+N﻿otre sélection : \
+https://lafourche.fr/products/lembeillage-lot-de-3-beewraps-s-m-et-l\
+https://www.mathon.fr/cat-ustensils/accessoire-de-conservation/Wrapeo-Rouleau-emballage-cire-vegetale-30-cm-x-100-cm-PID630006.aspx
