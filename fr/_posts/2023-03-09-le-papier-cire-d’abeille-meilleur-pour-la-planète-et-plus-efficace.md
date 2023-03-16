@@ -26,5 +26,5 @@ Les emballages en cire d'abeille sont une alternative  à l'emballage en plastiq
 Dans l'ensemble, l'utilisation de pellicules de cire d'abeille est meilleure pour l'environnement et votre santé que le film étirable.
 
 N﻿otre sélection : \
-https://lafourche.fr/products/lembeillage-lot-de-3-beewraps-s-m-et-l\
-https://www.mathon.fr/cat-ustensils/accessoire-de-conservation/Wrapeo-Rouleau-emballage-cire-vegetale-30-cm-x-100-cm-PID630006.aspx
+[B﻿eewraps](https://lafourche.fr/products/lembeillage-lot-de-3-beewraps-s-m-et-l)\
+[Rouleau Wrapeo](https://www.mathon.fr/cat-ustensils/accessoire-de-conservation/Wrapeo-Rouleau-emballage-cire-vegetale-30-cm-x-100-cm-PID630006.aspx)
