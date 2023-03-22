@@ -23,3 +23,8 @@ Using reusable cotton rounds has several advantages over using disposable ones. 
 4. Versatile: Reusable cotton rounds can be used for a variety of purposes, such as removing makeup, applying toner or serum, or even as a general cleaning cloth. This makes them a versatile option that can replace multiple single-use products.
 
 Overall, using reusable cotton rounds is a more sustainable, cost-effective, and gentle option for your skincare routine.
+
+O﻿ur selection : 
+
+[E﻿cogarden](https://www.ecogardenuk.co.uk/products/reusable-bamboo-cotton-cleansing-pad-set?)\
+[P﻿eacewiththewild](https://www.peacewiththewild.co.uk/product-category/skincare/cloths-rounds/cotton-rounds/?)
