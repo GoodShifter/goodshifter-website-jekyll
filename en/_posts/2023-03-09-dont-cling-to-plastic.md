@@ -22,3 +22,7 @@ Beeswax wraps are a popular alternative to plastic wrap because they are more su
 5. Antibacterial: Beeswax has natural antibacterial properties that can help keep food fresh for longer. It also repels water and prevents bacteria from thriving, making it an ideal material for food storage.
 
 Overall, using beeswax wraps is better for the environment and your health than using plastic wrap. They are sustainable, reusable, breathable, malleable, and antibacterial, making them an excellent alternative for food storage.
+
+O﻿ur selection : \
+[Q﻿ueenbeewrap](https://www.queenbeewraps.co.uk/)\
+[H﻿oneybeegood](https://honeybeegood.co.uk/collections)
