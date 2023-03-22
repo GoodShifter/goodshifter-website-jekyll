@@ -23,3 +23,5 @@ Using stainless steel pans over non-stick pans has several advantages :
 5. Easy to clean: Stainless steel pans are easy to clean and maintain. They can be washed with soap and water and are dishwasher safe. They also do not require any special cleaning tools or materials, unlike non-stick pans, which require gentle cleaning to avoid damaging the non-stick coating.
 
 Overall, using stainless steel pans is a better choice than non-stick pans because they are more durable, safe, versatile, better at browning, and easy to clean. While non-stick pans may seem more convenient, their synthetic coatings can pose health risks and their limited lifespan means they need to be.
+
+[A﻿ selection of stainless steel pans ](https://www.standard.co.uk/shopping/esbest/home-garden/kitchen-appliances/best-stainless-steel-cookware-pots-pans-b1013549.html)
