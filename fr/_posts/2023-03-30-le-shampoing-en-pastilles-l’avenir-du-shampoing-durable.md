@@ -12,14 +12,14 @@ lang: fr
 categories:
   - fr
 ---
-# **Le format en pastilles :** impact environnemental et facilité d’utilisation. 
+## **Le format en pastilles :** impact environnemental et facilité d’utilisation. 
 
 1. **Réduction des déchets :** 174 millions de bouteilles de shampoings sont vendues chaque année en France. Les bouteilles en plastique de produits d'hygiène sont l'une des principales sources de déchets plastiques dans le monde. En choisissant un shampoing en pastille, vous réduisez considérablement la quantité de déchets plastiques que vous produisez.
 2. **Économique :** Les shampoings en pastilles sont souvent moins chers à l'achat que les shampoings traditionnels en bouteille. Bien que la bouteille rechargeable puisse avoir un coût initial plus élevé, à long terme, vous économiserez de l'argent en achetant des recharges de shampoing en pastilles plutôt que de nouvelles bouteilles en plastique.
 3. **Pratique :** Les shampoings en pastilles sont compacts et faciles à ranger. 
 4. **Plus facile d’utilisation que le shampoing solide.** Le shampoing solide est aussi une bonne alternative durable mais il est plus difficile de le conserver en bonne condition dans une douche ou au bord d’une baignoire que sur la forme d’une bouteille. 
 
-# **Pourquoi est-ce important de choisir des produits cosmétiques à base d'ingrédients naturels  ou d'origine naturelle?** 
+## **Pourquoi est-ce important de choisir des produits cosmétiques à base d'ingrédients naturels  ou d'origine naturelle?** 
 
 **Un ingrédient naturel** est un produit d’origine végétale, animale ou minérale, qui n’est pas transformé, sauf par des actions mécaniques traditionnelles. 
 
