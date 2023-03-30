@@ -34,3 +34,7 @@ Dans les deux cas, ce ne sont pas des ingrédients issus de la pétrochimie.\
 3. **Respectueux de l'environnement :** Les ingrédients naturels sont souvent cultivés de manière durable et écologique, sans l'utilisation de pesticides et d'engrais chimiques. Les shampoings naturels ont donc un impact environnemental réduit par rapport aux shampoings traditionnels.
 4. **Parfums naturels :** Les shampoings naturels utilisent souvent des parfums naturels tels que les huiles essentielles, qui peuvent avoir des avantages pour la santé en plus de leur parfum agréable. Les parfums synthétiques utilisés dans les shampoings traditionnels peuvent contenir des produits chimiques nocifs pour la santé.
 5. **Meilleur pour les personnes ayant une peau sensible :** Les ingrédients naturels peuvent être plus doux pour les personnes ayant une peau sensible ou sujette aux allergies. Les shampoings naturels peuvent aider à éviter les réactions allergiques et les irritations cutanées.
+
+**Notre selection :** \
+**[Shampoing Another Way ](https://www.another-way.com/collections/shampoing-ecologique/products/shampoing)**\
+**[Shampoing 900care](https://900.care/products/shampoing)**
