@@ -4,7 +4,7 @@ slug: beef
 title: Less beef, more life
 tags:
   - beef
-image: assets/images/uploads/omnmen-beef.jpg
+image: assets/images/uploads/omnmen-beef.pptx.jpg
 date: 2023-03-22T15:00:59.242Z
 comments: true
 layout: post
