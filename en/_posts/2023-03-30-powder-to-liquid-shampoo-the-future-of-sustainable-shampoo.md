@@ -20,7 +20,7 @@ categories:
 
 **Practical:** Tablet shampoos are compact and easy to store.
 
-**Easier to use than solid shampoo:** Solid shampoo is also a good sustainable alternative but it is more difficult to keep it in good condition in a shower or at the edge of a bathtub than in the form of a bottle.
+**Easier to use than shampoo bar:** Shampoo bar is also a good sustainable alternative but it is more difficult to keep it in good condition in a shower or at the edge of a bathtub than in the form of a bottle.
 
 #### Why is it important to choose cosmetic products based on natural ingredients or of natural origin?
 
@@ -41,3 +41,8 @@ In both cases, these are not ingredients derived from petrochemicals.
 **Natural scents:** Natural shampoos often use natural scents such as essential oils, which can have health benefits in addition to their pleasant scent. Synthetic fragrances used in traditional shampoos may contain harmful chemicals.
 
 **Better for people with sensitive skin:** Natural ingredients may be more gentle for people with sensitive or allergy-prone skin. Natural shampoos can help avoid allergic reactions and skin irritations.
+
+Selection : 
+
+[Millyandsissy shampoo powder](https://millyandsissy.co.uk/collections/shampoos/products/copy-of-zero-waste-shampoo-fine-dry-refill)\
+[Susteau Moondush Hairwash](https://www.selfridges.com/GB/en/cat/susteau-moondust-hair-wash-shampoo-50g_R03919048/)
