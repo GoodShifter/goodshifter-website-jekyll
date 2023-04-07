@@ -15,8 +15,18 @@ GoodShifter is a company with a mission to promote more sustainable and healthie
 
 Hyacinthe and Ashley are the co-founders of GoodShifter.
 
-> When I discovered the documentary “The True Cost", I realized the social and environmental impact that everyday purchases can have. I then wanted to change my own consumption habits and I realized how difficult it was to do consistently and over time. This is how I started thinking about tools that would help consumers change their buying behaviours for their health and for the planet. 
+<br>
+
+> When I discovered the documentary “The True Cost", I realized the social and environmental impact that everyday purchases can have. I then wanted to change my own consumption habits and I realized how difficult it was to do consistently and over time. This is how I started thinking about tools that would help consumers change their buying behaviors for their health and for the planet. 
 >
 > In 2021, after working 10 years in marketing and in business development in France and the UK, I applied and joined the On-Purpose program in London to learn about social and environmental governance and to find the resources that would allow me to develop an app that helps sustainable consumption.  
 >
 > ***Hyacinthe***
+
+<br>
+
+> The few years I spent in Asia allowed me to observe the devastating effects of mass consumption and lack of environmental awareness. Passionate about scuba diving, most of the sites I have had the opportunity to explore have their share of waste and packaging evolving among the multicolored fishes and corals. Outside the water, plastic no longer spares even the steep paths of the Himalayas!
+> When I returned to the European continent, I was surprised by the difficulty of navigating through all the brands and products available, despite the presence of numerous labels and indicators printed on the packs. Favoring responsible and conscious consumption in its everyday life becomes a real headache!
+> With nearly 8 years of experience in the retail trade and a career shift to artificial intelligence and tech, I intend to guide consumers (me first!), little by little, towards choices with a positive impact for our planet.
+>
+> ***Ashley***
