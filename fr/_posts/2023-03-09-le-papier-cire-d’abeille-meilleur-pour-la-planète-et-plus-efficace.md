@@ -7,7 +7,7 @@ tags:
   - film étirable
   - planète
   - plastique
-image: assets/images/uploads/image-09-03-2023-at-14.09-3-.jpeg
+image: assets/images/uploads/omnm-papierciredabeille-nouveau.jpg
 date: 2023-03-09T14:20:07.677Z
 comments: true
 layout: post
