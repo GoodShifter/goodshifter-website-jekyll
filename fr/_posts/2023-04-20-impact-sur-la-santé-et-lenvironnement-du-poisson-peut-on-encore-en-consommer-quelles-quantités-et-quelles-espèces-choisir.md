@@ -19,7 +19,7 @@ Malgré cela, de nombreuses voix appellent les consommateurs à **réduire leur 
 \
 **L’aquaculture est aussi problématique :** Les espèces en élevage sont nourries avec des farines animales à base de poissons, ce qui exerce une pression sur les stocks sauvages. De plus, les poissons sont traités aux antibiotiques et aux antiparasitaires qui se retrouvent ensuite dans notre assiette. Certains s'évadent et contaminent le milieu sauvage. Enfin, la pisciculture est polluante pour les mers en raison des nombreuses déjections. 
 
-#### Alors comment profiter des bienfaits sur la santé du poisson tout en minimisant les effets négatifs ?\
+#### Alors comment profiter des bienfaits sur la santé du poisson tout en minimisant les effets négatifs ?
 
 \
 \
