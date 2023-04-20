@@ -25,7 +25,7 @@ En un mot, il faut  : 
 
 1. **bien choisir son poisson**
 2. **varier les espèces consommées**  
-3. **ne pas dépasser les quantités hebdomadaires recommandées** (1 poisson gras et 1 poisson maigre/semaine) 
+3. **ne pas dépasser les quantités hebdomadaires recommandées** (1 portion de poisson gras et 1 portion de poisson maigre/semaine) 
 
 #### Et voici quelques critères à prendre en considération lorsque vous choisissez votre poisson 
 
