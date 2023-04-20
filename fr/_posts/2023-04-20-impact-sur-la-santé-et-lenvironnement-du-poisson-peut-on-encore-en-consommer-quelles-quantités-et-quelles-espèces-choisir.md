@@ -13,7 +13,7 @@ lang: fr
 categories:
   - fr
 ---
-Les autorités sanitaires (ANSES, OMS) recommandent de **manger du poisson 2 fois par semaine,** dont au moins une fois du poisson gras afin de s’assurer d’un apport suffisant en **acide gras oméga 3**, nécessaire  au développement et au fonctionnement de la rétine, du cerveau et du système nerveux donc particulièrement important chez la femme enceinte et chez l’enfant. 
+Les autorités sanitaires (ANSES, OMS) recommandent de **manger du poisson 2 fois par semaine,** dont au moins une fois du poisson gras afin de s’assurer d’un apport suffisant en **acide gras oméga 3**, nécessaires au développement et au fonctionnement de la rétine, du cerveau et du système nerveux donc particulièrement important chez la femme enceinte et chez l’enfant. 
 
 Malgré cela, de nombreuses voix appellent les consommateurs à **réduire leur consommation de poisson** en raison de l’impact sur l'environnement et sur la santé des consommateurs. En effet, **25% des stocks mondiaux** de poisson sont **en cours d'effondrement** ou déjà épuisés. De plus, les **polluants présents dans les mers contaminent les poissons** et représentent un risque pour les gros consommateurs. En effet, certaines espèces peuvent contenir des niveaux élevés de mercure, de PCB (polychlorobiphényles) ou d'autres contaminants environnementaux, ce qui peut être dangereux pour notre santé.\
 \
