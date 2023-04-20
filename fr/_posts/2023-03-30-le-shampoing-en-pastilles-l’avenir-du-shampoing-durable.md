@@ -4,7 +4,7 @@ slug: "shampoing en pastilles "
 title: "Le shampoing en pastilles : l’avenir du shampoing durable? "
 tags:
   - shampoing durable
-image: assets/images/uploads/oldmenewfr-shamp.pptx-3.jpg
+image: assets/images/uploads/omnm-shampooing-nouveau.jpg
 date: 2023-03-30T12:26:21.081Z
 comments: true
 layout: post
