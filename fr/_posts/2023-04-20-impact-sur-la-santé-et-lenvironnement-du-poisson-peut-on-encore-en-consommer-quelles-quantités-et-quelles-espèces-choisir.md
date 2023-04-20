@@ -21,7 +21,7 @@ Malgré cela, de nombreuses voix appellent les consommateurs à **réduire leur 
 
 #### Alors comment profiter des bienfaits sur la santé du poisson tout en minimisant les effets négatifs ?
 
-![Tableau Poissons](/assets/images/uploads/guide-poisson-1.jpg "Tableau Poissons")
+![Tableau Poissons](/assets/images/uploads/guide-poissons.png "Tableau Poissons")
 
 En un mot, il faut  : 
 
