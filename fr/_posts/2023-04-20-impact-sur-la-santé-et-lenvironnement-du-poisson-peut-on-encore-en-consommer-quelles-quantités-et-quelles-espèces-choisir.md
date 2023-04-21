@@ -38,7 +38,7 @@ En un mot, il faut  : 
 5. **Labels BIO :** Pour les poissons d'élevage, privilégiez les produits avec les labels BIO, notamment le label AB qui garantit un meilleur impact sur la santé (moins de pesticides et antibiotiques), une moindre pression sur les stocks de poissons utilisés pour la nourriture et un meilleur bien-être animal (densité des poissons dans les cages).  
 6. **L’exposition aux polluants :** Il faut éviter de trop consommer  les poissons qui contiennent des niveaux élevés de mercure, de PCB ou d'autres contaminants environnementaux. Les poissons les plus susceptibles de contenir des niveaux élevés de polluants sont souvent les poissons carnivores, tels que le thon, l'espadon et le requin. En général, les poissons d'élevage sont moins susceptibles de contenir des contaminants environnementaux que les poissons sauvages.  
 
-*Nous avons tenté de réunir les informations disponibles sur l'impact sur la santé et sur l'environnement des différentes espèces de poissons. Nous avons mis des ? quand nous avons trouvé des informations contradictoires.**Les poissons en vert sont les espèces à privilégier en termes de santé et d'environnement sur la base des informations réunies dans ce tableau.*
+*Nous avons tenté de réunir les informations disponibles sur l'impact sur la santé et sur l'environnement des différentes espèces de poissons. Nous avons mis des ? quand nous avons trouvé des informations contradictoires. Les poissons en vert sont les espèces à privilégier en termes de santé et d'environnement sur la base des informations réunies dans ce tableau.*
 
 *T﻿ABLEAU* 
 
