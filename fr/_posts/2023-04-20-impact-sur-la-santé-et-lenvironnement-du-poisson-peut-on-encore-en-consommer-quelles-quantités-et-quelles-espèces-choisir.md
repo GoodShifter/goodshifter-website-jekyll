@@ -32,18 +32,17 @@ En un mot, il faut  : 
 ##### Et voici quelques critères à prendre en considération lorsque vous choisissez votre poisson :
 
 1. **L’ état des stocks et la provenance**  : certaines espèces sont surpêchées en fonction de leurs zones de capture. Par exemple, 90% des poissons de la méditerranée sont pêchées au-dessus des niveaux durables.  
-
 2. **Provenance locale :  française ou européenne** :  plus frais, moins d’impact carbone. Des plateformes comme[ Poiscaille](https://poiscaille.fr)  ou [Etrille](https://www.etrille.fr) proposent des produits de pêche durable et en circuit court.  
-
 3. **La méthode de pêche :** Évitez les poissons pêchés avec des méthodes destructrices, telles que les chaluts de fond, qui peuvent endommager les écosystèmes marins.  
-
 4. **La période de reproduction :** il est recommandé de ne pas consommer une espèce pendant la période de reproduction et de suivre [la saisonnalité du poisson](https://www.finedininglovers.fr/article/saison-des-poissons).  
-
 5. **Labels BIO :** Pour les poissons d'élevage, privilégiez les produits avec les labels BIO, notamment le label AB qui garantit un meilleur impact sur la santé (moins de pesticides et antibiotiques), une moindre pression sur les stocks de poissons utilisés pour la nourriture et un meilleur bien-être animal (densité des poissons dans les cages).  
-
 6. **L’exposition aux polluants :** Il faut éviter de trop consommer  les poissons qui contiennent des niveaux élevés de mercure, de PCB ou d'autres contaminants environnementaux. Les poissons les plus susceptibles de contenir des niveaux élevés de polluants sont souvent les poissons carnivores, tels que le thon, l'espadon et le requin. En général, les poissons d'élevage sont moins susceptibles de contenir des contaminants environnementaux que les poissons sauvages.  
 
-![Tableau Poissons](/assets/images/uploads/guide-poissons.png "Tableau Poissons")
+*Nous avons tenté de réunir les informations disponibles sur l'impact sur la santé et sur l'environnement des différentes espèces de poissons. Nous avons mis des ? quand nous avons trouvé des informations contradictoires.**Les poissons en vert sont les espèces à privilégier en termes de santé et d'environnement sur la base des informations réunies dans ce tableau.*
+
+*T﻿ABLEAU* 
+
+![Guide poissons bons pour la santé et l'environnement ](/assets/images/uploads/guide-poissons.png "Guide des poissons bons pour la santé et l'environnement  ")
 
 \
 \
