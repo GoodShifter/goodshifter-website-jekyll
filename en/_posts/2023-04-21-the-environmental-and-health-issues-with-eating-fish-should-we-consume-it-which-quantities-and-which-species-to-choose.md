@@ -38,4 +38,4 @@ In a nutshell, you need:
 
 *We have tried to bring together the information available on the impact on health and the environment of the different species of fish. We put ? when we found conflicting information. The fishes in green are the species to be favoured in terms of health and the environment on the basis of the information gathered in this table.*
 
-*T﻿ABLEAU*
+![The environmental and health issues with eating fish](/assets/images/uploads/guide-poisson-en.png "The environmental and health issues with eating fish")
