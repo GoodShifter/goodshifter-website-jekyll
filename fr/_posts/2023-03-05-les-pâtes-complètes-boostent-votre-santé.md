@@ -1,6 +1,6 @@
 ---
 lang-ref: whole-grain-pastas
-slug: pates-completes
+slug: les-pates-completes-boostent-votre-sante
 title: Les pâtes complètes boostent votre santé!
 tags:
   - pâtes
