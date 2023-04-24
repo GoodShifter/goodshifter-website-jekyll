@@ -13,7 +13,7 @@ categories:
 ---
 GoodShifter is a company with a mission to promote more sustainable and healthier consumption habits through the development of online tools (coming soon).
 
-Hyacinthe and Ashley are the co-founders of GoodShifter.
+[Hyacinthe Mutin](https://www.linkedin.com/in/hyacinthemutin/) et [Ashley O'Mahony](https://www.linkedin.com/in/ashleyomahony/) are the co-founders of GoodShifter.
 
 <br>
 
