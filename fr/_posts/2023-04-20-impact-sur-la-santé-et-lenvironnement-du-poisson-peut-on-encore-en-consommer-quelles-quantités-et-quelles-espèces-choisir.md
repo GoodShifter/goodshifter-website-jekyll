@@ -1,6 +1,6 @@
 ---
-lang-ref: "Guide consommation poisson pour la santé et l'environnement "
-slug: "Guide consommation poisson pour la santé et l'environnement "
+lang-ref: guide-fish
+slug: impact-sur-la-sante-et-l-environnement-du-poisson
 title: "Impact sur la santé et l'environnement du poisson : Peut-on encore en
   consommer? Quelles quantités et quelles espèces choisir? "
 tags:
@@ -42,10 +42,10 @@ En un mot, il faut  : 
 ![Guide poissons bons pour la santé et l'environnement](/assets/images/uploads/guide-poisson-fr.png "Guide poissons bons pour la santé et l'environnement")
 
 **
-Sources :**
-**[Lemonde.fr ](https://www.lemonde.fr/planete/article/2021/12/10/mode-d-emploi-pour-manger-du-poisson-sans-trop-de-casse-environnementale_6105413_3244.html)**
-**[Fishguide](https://fr.fishguide.be)**
-**[SanteMagazine](https://www.santemagazine.fr/sante/sante-environnementale/pollution/pollution-des-eaux-peut-on-encore-consommer-du-poisson-172566)**
-[AssefAsso](https://www.asef-asso.fr/production/mercure-peut-on-encore-consommer-du-poisson-la-synthese-de-lasef/)
-[France Assos Santé](https://www.france-assos-sante.org/2014/06/24/6-gestes-pour-bien-manger-du-poisson/)
-[ConsoGlobe](https://www.consoglobe.com/)
+Sources:**
+[Lemonde.fr ](https://www.lemonde.fr/planete/article/2021/12/10/mode-d-emploi-pour-manger-du-poisson-sans-trop-de-casse-environnementale_6105413_3244.html)  
+[Fishguide](https://fr.fishguide.be)  
+[SanteMagazine](https://www.santemagazine.fr/sante/sante-environnementale/pollution/pollution-des-eaux-peut-on-encore-consommer-du-poisson-172566)  
+[AssefAsso](https://www.asef-asso.fr/production/mercure-peut-on-encore-consommer-du-poisson-la-synthese-de-lasef/)  
+[France Assos Santé](https://www.france-assos-sante.org/2014/06/24/6-gestes-pour-bien-manger-du-poisson/)  
+[ConsoGlobe](https://www.consoglobe.com/)  
