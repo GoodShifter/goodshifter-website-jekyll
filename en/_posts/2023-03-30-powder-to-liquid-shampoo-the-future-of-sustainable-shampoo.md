@@ -4,6 +4,8 @@ slug: Powder-to-liquid shampoo
 title: "Powder-to-liquid shampoo: the future of sustainable shampoo?"
 tags:
   - sustainable shampoo
+  - solid shampoo
+  - waste-free shampoo
 image: assets/images/uploads/omnmen-shampoo.jpg
 date: 2023-03-30T13:11:33.614Z
 comments: true
