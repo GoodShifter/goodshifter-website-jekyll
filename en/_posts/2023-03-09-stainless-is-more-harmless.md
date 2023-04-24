@@ -6,6 +6,7 @@ tags:
   - nonstickpan
   - stainlesssteelpan
   - PFOA
+  - forever pollution
 image: /assets/images/uploads/omnm-pan-new.jpg
 date: 2023-03-09T13:52:53.879Z
 comments: true
