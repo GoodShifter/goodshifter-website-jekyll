@@ -1,6 +1,6 @@
 ---
-lang-ref: Powder-to-liquid shampoo
-slug: Powder-to-liquid shampoo
+lang-ref: solid-shampoo
+slug: powder-to-liquid-shampoo
 title: "Powder-to-liquid shampoo: the future of sustainable shampoo?"
 tags:
   - sustainable shampoo
@@ -46,5 +46,5 @@ In both cases, these are not ingredients derived from petrochemicals.
 
 Selection : 
 
-[Millyandsissy shampoo powder](https://millyandsissy.co.uk/collections/shampoos/products/copy-of-zero-waste-shampoo-fine-dry-refill)\
+[Millyandsissy shampoo powder](https://millyandsissy.co.uk/collections/shampoos/products/copy-of-zero-waste-shampoo-fine-dry-refill)
 [Susteau Moondush Hairwash](https://www.selfridges.com/GB/en/cat/susteau-moondust-hair-wash-shampoo-50g_R03919048/)
