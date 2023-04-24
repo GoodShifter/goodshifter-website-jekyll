@@ -1,9 +1,7 @@
 ---
-lang-ref: "The environmental and health issues with eating fish : Should we
-  consume it? Which quantities and which species to choose?"
-slug: "The environmental and health issues with eating fish : Should we consume
-  it? Which quantities and which species to choose?"
-title: "The environmental and health issues with eating fish : Should we consume
+lang-ref: guide-fish
+slug: the-environmental-and-health-issues-with-eating-fish
+title: "The environmental and health issues with eating fish: Should we consume
   it? Which quantities and which species to choose?"
 tags:
   - overfishing
