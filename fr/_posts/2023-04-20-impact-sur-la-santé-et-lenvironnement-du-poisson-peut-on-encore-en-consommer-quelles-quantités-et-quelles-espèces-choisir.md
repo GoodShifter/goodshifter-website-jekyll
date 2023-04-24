@@ -41,8 +41,7 @@ En un mot, il faut  : 
 
 ![Guide poissons bons pour la santé et l'environnement](/assets/images/uploads/guide-poisson-fr.png "Guide poissons bons pour la santé et l'environnement")
 
-**
-Sources:**
+**Sources:**
 [Lemonde.fr ](https://www.lemonde.fr/planete/article/2021/12/10/mode-d-emploi-pour-manger-du-poisson-sans-trop-de-casse-environnementale_6105413_3244.html)  
 [Fishguide](https://fr.fishguide.be)  
 [SanteMagazine](https://www.santemagazine.fr/sante/sante-environnementale/pollution/pollution-des-eaux-peut-on-encore-consommer-du-poisson-172566)  
