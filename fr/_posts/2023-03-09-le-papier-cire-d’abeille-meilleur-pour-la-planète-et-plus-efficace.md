@@ -1,5 +1,5 @@
 ---
-lang-ref: stainless-steel-pan
+lang-ref: beeswax-wrap
 slug: papier-cire-d-abeille
 title: Le papier cire d’abeille, meilleur pour la planète et plus efficace!
 tags:
@@ -7,6 +7,7 @@ tags:
   - film étirable
   - planète
   - plastique
+  - pollution
 image: assets/images/uploads/omnm-papierciredabeille-nouveau.jpg
 date: 2023-03-09T14:20:07.677Z
 comments: true
