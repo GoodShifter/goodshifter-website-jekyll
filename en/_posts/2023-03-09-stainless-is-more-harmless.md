@@ -6,7 +6,7 @@ tags:
   - nonstickpan
   - stainlesssteelpan
   - PFOA
-image: assets/images/uploads/image-09-03-2023-at-14.09-5-.jpeg
+image: /assets/images/uploads/omnm-pan-new.jpg
 date: 2023-03-09T13:52:53.879Z
 comments: true
 layout: post
