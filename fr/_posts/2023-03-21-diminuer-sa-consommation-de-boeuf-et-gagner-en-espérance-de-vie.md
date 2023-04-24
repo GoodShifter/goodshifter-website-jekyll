@@ -4,6 +4,8 @@ slug: moins-de-boeuf
 title: Diminuer sa consommation de boeuf et gagner en espérance de vie!
 tags:
   - boeuf
+  - régime flexitarien
+  - empreinte carbone viande
 image: assets/images/uploads/omnmfr-boeuf.jpg
 date: 2023-03-21T11:15:33.395Z
 comments: true
