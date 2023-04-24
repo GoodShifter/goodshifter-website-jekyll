@@ -4,6 +4,8 @@ slug: beef
 title: Less beef, more life
 tags:
   - beef
+  - flexitarian
+  - environmental impact
 image: assets/images/uploads/omnmen-beef.pptx.jpg
 date: 2023-03-22T15:00:59.242Z
 comments: true
