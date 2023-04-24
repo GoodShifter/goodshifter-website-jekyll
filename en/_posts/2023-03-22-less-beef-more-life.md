@@ -1,11 +1,13 @@
 ---
 lang-ref: less-beef
-slug: beef
+slug: less-beef-moore-life
 title: Less beef, more life
 tags:
   - beef
   - flexitarian
   - environmental impact
+  - meat
+  - carbon footprint
 image: assets/images/uploads/omnmen-beef.pptx.jpg
 date: 2023-03-22T15:00:59.242Z
 comments: true
