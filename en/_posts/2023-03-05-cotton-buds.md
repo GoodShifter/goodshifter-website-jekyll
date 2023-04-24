@@ -7,7 +7,7 @@ tags:
   - reusable
   - reduce waste
   - skincare
-image: assets/images/uploads/image-09-03-2023-at-14.08.jpeg
+image: /assets/images/uploads/omnm-cotton-new.jpg
 date: 2023-03-05T02:48:54.015Z
 comments: true
 layout: post
