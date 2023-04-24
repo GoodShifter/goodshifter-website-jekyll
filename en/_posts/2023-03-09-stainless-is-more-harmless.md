@@ -3,8 +3,8 @@ lang-ref: stainless-steel-pan
 slug: stainless-steel-pan
 title: Stainless is more harmless!
 tags:
-  - nonstickpan
-  - stainlesssteelpan
+  - non stick pan
+  - stainless steel pan
   - PFOA
   - forever pollution
 image: /assets/images/uploads/omnm-pan-new.jpg
