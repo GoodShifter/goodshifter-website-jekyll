@@ -5,6 +5,7 @@ title: Don't cling to plastic!
 tags:
   - clingfilm
   - beeswaxwrap
+  - plasticpollution
 image: /assets/images/uploads/omnm-cling-film-new.jpg
 date: 2023-03-09T13:41:40.023Z
 comments: true
