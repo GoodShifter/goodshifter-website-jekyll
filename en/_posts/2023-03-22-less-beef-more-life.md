@@ -1,6 +1,6 @@
 ---
 lang-ref: less-beef
-slug: less-beef-moore-life
+slug: less-beef-more-life
 title: Less beef, more life
 tags:
   - beef
