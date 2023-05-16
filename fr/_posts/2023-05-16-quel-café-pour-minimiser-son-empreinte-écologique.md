@@ -4,7 +4,6 @@ slug: "capsules-cafe-environnement "
 title: "Quel café pour minimiser son empreinte écologique? "
 tags:
   - empreinte écologique du café
-  - café écolo
   - capsule café
   - capsule biodégradable
   - capsule compostable
