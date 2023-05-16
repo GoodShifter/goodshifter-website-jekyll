@@ -6,7 +6,7 @@ title: GoodShifter a besoin de vous !
 image: assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
 date: 2023-05-16T22:00:00.000Z
 comments: false
-layout: page
+layout: full_page
 lang: fr
 categories:
   - fr
