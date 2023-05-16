@@ -11,3 +11,5 @@ languages:
         url: ""
       - title: "Le Projet"
         url: "le-projet"
+      - title: "GoodShifter a besoin de vous !"
+        url: "goodshifter-a-besoin-de-vous"
