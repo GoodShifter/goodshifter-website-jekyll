@@ -325,7 +325,7 @@ a.next {
   font-style: italic;
 }
 .highlight .err {
-  color: #a61717;
+  color: #008CBA;
   background-color: #e3d2d2;
 }
 .highlight .gd {
@@ -337,7 +337,7 @@ a.next {
   font-style: italic;
 }
 .highlight .gr {
-  color: #aa0000;
+  color: #008CBA;
 }
 .highlight .gh {
   color: #999999;
@@ -359,7 +359,7 @@ a.next {
   color: #aaaaaa;
 }
 .highlight .gt {
-  color: #aa0000;
+  color: #008CBA;
 }
 .highlight .kc {
   color: #000000;
