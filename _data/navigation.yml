@@ -5,6 +5,8 @@ languages:
         url: ""
       - title: "The Project"
         url: "the-project"
+      - title: "GoodShifter needs your help!"
+        url: "goodshifter-needs-your-help"
   - language: "fr"
     links: 
       - title: "Accueil"
