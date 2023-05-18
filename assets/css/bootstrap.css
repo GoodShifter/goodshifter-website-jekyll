@@ -180,7 +180,7 @@ a {
     color: #740511;
     text-decoration: underline; }
 
-a.btn-sm {
+.btn a {
   color: #ffffff !important;
 }
 
