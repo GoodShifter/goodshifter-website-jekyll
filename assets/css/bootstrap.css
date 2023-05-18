@@ -2582,6 +2582,10 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 /* line 64, node_modules/bootstrap/scss/_buttons.scss */
+a.btn-primary {
+  color: #fff;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #008CBA !important;
@@ -2589,8 +2593,8 @@ fieldset:disabled a.btn {
   /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
   .btn-primary:hover {
     color: #fff;
-    background-color: #980617;
-    border-color: #8c0615; }
+    background-color: #008CDD;
+    border-color: #008CDD; }
   /* line 18, node_modules/bootstrap/scss/mixins/_buttons.scss */
   .btn-primary:focus, .btn-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.5);
@@ -2749,7 +2753,7 @@ fieldset:disabled a.btn {
   /* line 18, node_modules/bootstrap/scss/mixins/_buttons.scss */
   .btn-danger:focus, .btn-danger.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.5);
-            box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.5); }
+            box-shadow: 0 0 0 0.2rem rgba(21, 14, 15, 0.5); }
   /* line 29, node_modules/bootstrap/scss/mixins/_buttons.scss */
   .btn-danger.disabled, .btn-danger:disabled {
     color: #fff;
