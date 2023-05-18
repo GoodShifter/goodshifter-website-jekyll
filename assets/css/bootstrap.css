@@ -180,6 +180,10 @@ a {
     color: #740511;
     text-decoration: underline; }
 
+a.btn-sm {
+  color: #ffffff !important;
+}
+
 /* line 216, node_modules/bootstrap/scss/_reboot.scss */
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -2583,7 +2587,7 @@ fieldset:disabled a.btn {
 
 /* line 64, node_modules/bootstrap/scss/_buttons.scss */
 a.btn-primary {
-  color: #fff;
+  color: #fff !important;
 }
 
 .btn-primary {
