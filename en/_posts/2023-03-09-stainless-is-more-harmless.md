@@ -2,6 +2,7 @@
 lang-ref: stainless-steel-pan
 slug: stainless-steel-pan
 title: Stainless is more harmless!
+description: Stainless is more harmless!
 tags:
   - non stick pan
   - stainless steel pan

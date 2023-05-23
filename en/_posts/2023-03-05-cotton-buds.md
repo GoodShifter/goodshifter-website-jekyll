@@ -2,6 +2,7 @@
 lang-ref: cotton-buds
 slug: cotton-buds
 title: Choose reusable cotton!
+description: Choose reusable cotton!
 tags:
   - cotton
   - reusable

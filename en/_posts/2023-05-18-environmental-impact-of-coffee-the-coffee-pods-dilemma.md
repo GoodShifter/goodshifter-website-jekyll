@@ -1,9 +1,10 @@
 ---
 lang-ref: coffee-guide
 slug: "Environmental-impact-of-coffee "
-title: "Environmental impact of coffee : the coffee pods dilemma"
+title: "Environmental impact of coffee: the coffee pods dilemma"
+description: "Environmental impact of coffee: the coffee pods dilemma"
 tags:
-  - Environmental impact of coffee
+  - environmental impact of coffee
   - sustainable coffee
   - biodegradable pod
   - compostable pod

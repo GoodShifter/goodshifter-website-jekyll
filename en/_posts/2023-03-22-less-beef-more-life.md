@@ -1,7 +1,8 @@
 ---
 lang-ref: less-beef
 slug: less-beef-moore-life
-title: Less beef, more life
+title: Less beef, more life!
+description: Less beef, more life!
 tags:
   - beef
   - flexitarian

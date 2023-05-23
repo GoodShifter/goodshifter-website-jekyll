@@ -1,7 +1,8 @@
 ---
 lang-ref: coffee-guide
 slug: "capsules-cafe-environnement "
-title: "Quel café pour minimiser son empreinte écologique? "
+title: "Quel café pour minimiser son empreinte écologique ?"
+description: "Quel café pour minimiser son empreinte écologique ?"
 tags:
   - empreinte écologique du café
   - capsule café

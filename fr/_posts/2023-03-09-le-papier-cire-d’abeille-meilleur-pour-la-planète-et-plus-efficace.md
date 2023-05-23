@@ -1,7 +1,8 @@
 ---
 lang-ref: beeswax-wrap
 slug: papier-cire-d-abeille
-title: Le papier cire d’abeille, meilleur pour la planète et plus efficace!
+title: Le papier cire d’abeille, meilleur pour la planète et plus efficace !
+description: Le papier cire d’abeille, meilleur pour la planète et plus efficace !
 tags:
   - papier cire d'abeille
   - film étirable

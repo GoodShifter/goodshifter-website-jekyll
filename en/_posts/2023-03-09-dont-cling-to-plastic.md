@@ -2,6 +2,7 @@
 lang-ref: beeswax-wrap
 slug: beeswax-wrap
 title: Don't cling to plastic!
+description: Don't cling to plastic!
 tags:
   - cling film
   - beeswax wrap

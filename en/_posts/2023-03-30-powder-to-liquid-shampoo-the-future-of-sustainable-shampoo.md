@@ -2,6 +2,7 @@
 lang-ref: solid-shampoo
 slug: powder-to-liquid-shampoo
 title: "Powder-to-liquid shampoo: the future of sustainable shampoo?"
+description: "Powder-to-liquid shampoo: the future of sustainable shampoo?"
 tags:
   - sustainable shampoo
   - solid shampoo

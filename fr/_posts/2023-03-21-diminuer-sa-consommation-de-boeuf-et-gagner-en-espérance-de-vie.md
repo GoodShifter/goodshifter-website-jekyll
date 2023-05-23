@@ -1,7 +1,8 @@
 ---
 lang-ref: less-beef
 slug: moins-de-boeuf
-title: Diminuer sa consommation de boeuf et gagner en espérance de vie!
+title: Diminuer sa consommation de boeuf et gagner en espérance de vie !
+description: Diminuer sa consommation de boeuf et gagner en espérance de vie !
 tags:
   - boeuf
   - régime flexitarien
