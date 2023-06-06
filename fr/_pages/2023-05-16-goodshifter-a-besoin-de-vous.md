@@ -8,7 +8,7 @@ description: GoodShifter est une application mobile qui a pour ambition de
   faciliter la gestion des courses alimentaires, d'hygiène et de maison. Elle
   vous accompagne pour mieux choisir vos produits et améliorer leur impact sur
   votre santé et sur l'environnement.
-image: assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
+image: /assets/images/uploads/survey-header.png
 date: 2023-05-16T22:00:00.000Z
 comments: false
 layout: full_page
