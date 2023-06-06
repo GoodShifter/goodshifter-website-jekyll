@@ -2,7 +2,6 @@
 lang-ref: survey
 slug: goodshifter-a-besoin-de-vous
 permalink: fr/goodshifter-a-besoin-de-vous
-title: GoodShifter a besoin de vous !
 title: GoodShifter a besoin de vous ! Répondez à notre sondage et entrez dans le GoodShifter Club !
 image: assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
 date: 2023-05-16T22:00:00.000Z
