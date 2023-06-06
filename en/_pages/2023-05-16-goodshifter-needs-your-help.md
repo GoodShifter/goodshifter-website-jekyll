@@ -2,8 +2,10 @@
 lang-ref: survey
 slug: goodshifter-needs-your-help
 permalink: en/goodshifter-needs-your-help
-title: GoodShifter needs your help! Fill in our survey and enter in the GoodShifter Club!
-description: GoodShifter is a mobile application that aims to facilitate food and hygiene shopping. It helps you choose your products better and improve their impact on your health and the environment.
+title: GoodShifter needs your help! Discover oour concept and fill in our survey!
+description: GoodShifter is a mobile application that aims to facilitate food
+  and hygiene shopping. It helps you choose your products better and improve
+  their impact on your health and the environment.
 image: assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
 date: 2023-05-16T22:00:00.000Z
 comments: false
