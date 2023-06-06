@@ -3,7 +3,7 @@ lang-ref: survey
 slug: goodshifter-a-besoin-de-vous
 permalink: fr/goodshifter-a-besoin-de-vous
 title: GoodShifter a besoin de vous ! Répondez à notre sondage et entrez dans le GoodShifter Club !
-description: 
+description: GoodShifter est une application mobile qui a pour ambition de faciliter la gestion des courses alimentaires, d'hygiène et de maison. Elle vous accompagne pour mieux choisir vos produits et améliorer leur impact sur votre santé et sur l'environnement.
 image: assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
 date: 2023-05-16T22:00:00.000Z
 comments: false
