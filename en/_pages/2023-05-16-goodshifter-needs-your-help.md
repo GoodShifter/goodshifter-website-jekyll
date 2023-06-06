@@ -3,9 +3,9 @@ lang-ref: survey
 slug: goodshifter-needs-your-help
 permalink: en/goodshifter-needs-your-help
 title: "GoodShifter needs your help! Fill in our survey and discover what the app. "
-description: GoodShifter is a grocery shopping assistant app that will provide
-  its users with an assessment of the impact of their buying habits on their
-  health and on the planet, and recommend more suitable products.
+description: GoodShifter is a mobile app that facilitates daily shopping for
+  food, home and personal care products. It helps you make better choices by
+  taking into account the products impact on your health and the environment.
 image: /assets/images/uploads/iamgemarchesurvey.jpg
 date: 2023-05-16T22:00:00.000Z
 comments: false
