@@ -1,7 +1,7 @@
 ---
 lang-ref: fruit-yoghurt
 slug: "Yoghurt with fruits are better than fruit-flavoured yoghurt "
-title: "Healthy eating tip : swap from flavoured yoghurt to plain yoghurts with
+title: "Healthy eating tip : swap from flavoured yoghurt to plain yoghurt with
   fresh fruits! "
 description: Eating unsweetened plain yoghurt with fresh fruits is an healthier
   choice compared to fruit-flavoured yoghurt
