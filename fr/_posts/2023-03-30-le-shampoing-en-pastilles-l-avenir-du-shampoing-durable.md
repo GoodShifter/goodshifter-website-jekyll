@@ -2,7 +2,7 @@
 lang-ref: solid-shampoo
 slug: "shampoing-en-pastilles "
 title: "Le shampooing en pastilles : l’avenir du shampoing durable ?"
-title: "Le shampooing en pastilles : l’avenir du shampoing durable ?"
+description: "Le shampooing en pastilles : l’avenir du shampoing durable ?"
 tags:
   - shampoing durable
   - shampoing solide
