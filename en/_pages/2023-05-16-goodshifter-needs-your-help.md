@@ -2,7 +2,8 @@
 lang-ref: survey
 slug: goodshifter-needs-your-help
 permalink: en/goodshifter-needs-your-help
-title: "GoodShifter needs your help! Fill in our survey and discover what the app. "
+title: "GoodShifter needs your help! Fill in our survey and discover what
+  features the app offers. "
 description: GoodShifter is a mobile app that facilitates daily shopping for
   food, home and personal care products. It helps you make better choices by
   taking into account the products impact on your health and the environment.
