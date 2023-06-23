@@ -19,8 +19,6 @@ lang: fr
 categories:
   - fr
 ---
-
-
 Le nitrite fait les gros titres : cet additif, souvent présent dans les produits de charcuterie, est accusé d’augmenter les risques de cancer colorectal. Il fait l’objet d’un bras de fer entre le gouvernement, la fédération des charcutiers traiteurs et les associations de consommateurs et applis d'aide à la consommation comme Yuka qui voudraient le faire interdire. 
 
 #### Qu’est ce que les nitrites? Pourquoi sont-ils mauvais pour la santé? 
@@ -33,13 +31,11 @@ Les nitrites sont considérés comme potentiellement mauvais pour la santé en r
 
 De plus, la consommation excessive de nitrites peut également entraîner d'autres problèmes de santé. Les nitrites peuvent réagir avec les composés présents dans le corps pour former des substances appelées nitrosamines N-nitroso, qui peuvent être toxiques et perturber le fonctionnement normal des cellules.
 
-
-
 #### Comment diminuer son exposition aux nitrites?
 
 **1. Choisissez des aliments frais :** Les nitrites se trouvent principalement dans les aliments transformés tels que les viandes transformées (charcuterie, saucisses, bacon, jambon), les conserves de viande, les produits en conserve et certains fromages. Privilégiez donc les aliments frais tels que les fruits, les légumes, les viandes et les poissons non transformés.
 
-**2. Limitez la consommation de charcuterie et de viandes transformées :**  La charcuterie est généralement riche en nitrites, **L’ANSE recommande de limiter votre consommation de viande transformée à moins de 150g par semaine, soit l'équivalent de 3 tranches de jambon. Par ailleurs, Il semblerait que le Jambon de Parme et le San Daniele pourraient être de bonnes alternatives au jambon blanc car ils ne contiendraient pas de nitrites.**
+**2. Limitez la consommation de charcuterie et de viandes transformées :**  La charcuterie est généralement riche en nitrites, **L’ANSE recommande de limiter votre consommation de viande transformée à moins de 150g par semaine, soit l'équivalent de 3 tranches de jambon.** Par ailleurs, Il semblerait que le Jambon de Parme et le San Daniele soient de bonnes alternatives au jambon blanc car ils ne contiendraient pas de nitrites.
 
 **3. Préparez vos repas vous-même :** En cuisinant vos repas à partir d'ingrédients bruts, vous avez un contrôle total sur ce que vous mangez. Vous pouvez ainsi éviter les aliments transformés contenant des nitrites.
 
@@ -49,6 +45,6 @@ De plus, la consommation excessive de nitrites peut également entraîner d'autr
 
 **Source :** 
 
-[ANSE](<https://www.anses.fr/fr/content/r%C3%A9duire-l%E2%80%99exposition-aux-nitrites-et-aux-nitrates-dans-l%E2%80%99alimentation>)
+[ANSE](https://www.anses.fr/fr/content/r%C3%A9duire-l%E2%80%99exposition-aux-nitrites-et-aux-nitrates-dans-l%E2%80%99alimentation)
 
-[Les Echos](<https://www.lesechos.fr/industrie-services/conso-distribution/huit-questions-sur-les-nitrites-dans-le-jambon-1326921>)
+[Les Echos](https://www.lesechos.fr/industrie-services/conso-distribution/huit-questions-sur-les-nitrites-dans-le-jambon-1326921)
