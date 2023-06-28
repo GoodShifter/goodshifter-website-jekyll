@@ -21,7 +21,7 @@ categories:
 ---
 Nitrite is making headlines: this additive, found in almost all processed meats, is said to increase the risk of cancer. In 2015, a major report from the World Health Organization linked 34,000 worldwide cases of colorectal cancer a year to diets high in processed meats.
 
-#### What is nitrite? Why should they be avoided ? 
+#### What are nitrites? Why should they be avoided ? 
 
 Nitrites are widely used as food additives, primarily in processed meats like bacon, ham, sausages, and deli meats. They serve several purposes in food preservation:
 
