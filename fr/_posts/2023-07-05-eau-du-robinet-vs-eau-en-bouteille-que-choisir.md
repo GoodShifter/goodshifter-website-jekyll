@@ -20,16 +20,14 @@ lang: fr
 categories:
   - fr
 ---
-
-
 #### 1. L’eau du robinet reste une bonne alternative à l'eau en bouteille
 
-**Dans l’ensemble, l'eau du robinet en France est de bonne qualité et fait l’objet de contrôles journaliers et de traitements stricts, surtout si vous vivez dans de grandes agglomérations.** Près de 96 % des consommateurs peuvent boire de l’eau du robinet en toute sécurité, selon les résultats d'une [enquête](https://www.quechoisir.org/guide-d-achat-quelle-eau-boire-n4855/) de l'UFC-Que Choisir qui recommande de privilégier cette eau. En effet, lorsque la présence de certaines substances issues de pesticides dépassent certains seuils, des alertes sont lancées ou des mesures prises pour en restreindre l'accès.
+**Dans l’ensemble, l'eau du robinet en France est de bonne qualité et fait l’objet de contrôles réguliers et de traitements stricts, surtout si vous vivez dans de grandes agglomérations.** Près de 96 % des consommateurs peuvent boire de l’eau du robinet en toute sécurité, selon les résultats d'une [enquête](https://www.quechoisir.org/guide-d-achat-quelle-eau-boire-n4855/) de l'UFC-Que Choisir qui recommande de privilégier cette eau. En effet, lorsque la présence de certaines substances issues de pesticides dépassent certains seuils, des alertes sont lancées ou des mesures prises pour en restreindre l'accès.
 
 **Pour ceux qui auraient des doutes ou qui vivent dans de petites communes potentiellement affectées par la pollution liée à l’agriculture, la qualité de l’eau courante peut être vérifiée sur les sites suivants :** 
 
-[Moteur de recherche France TV Info](<https://www.francetvinfo.fr/sante/environnement-et-sante/votre-eau-du-robinet-comporte-t-elle-des-pesticides-au-dessus-des-limites-de-qualite-decouvrez-le-grace-a-notre-moteur-de-recherche_5364667.html>)\
-[Données du gouvernement sur la potabilite de l'eau ](<https://www.data.gouv.fr/fr/datasets/pesticides-dans-les-eaux-souterraines/>)
+[Moteur de recherche France TV Info](https://www.francetvinfo.fr/sante/environnement-et-sante/votre-eau-du-robinet-comporte-t-elle-des-pesticides-au-dessus-des-limites-de-qualite-decouvrez-le-grace-a-notre-moteur-de-recherche_5364667.html)\
+[Données du gouvernement sur la potabilite de l'eau ](https://www.data.gouv.fr/fr/datasets/pesticides-dans-les-eaux-souterraines/)
 
 **Ou via des tests de potabilité de l’eau à domicile,** notamment pour la teneur en plomb si vous n'êtes pas sûrs de vos canalisations d'arrivée d’eau (qui peuvent être en plomb, principalement dans les immeubles construits avant 1950). 
 
