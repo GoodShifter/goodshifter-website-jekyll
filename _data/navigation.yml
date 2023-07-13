@@ -3,6 +3,8 @@ languages:
     links: 
       - title: "Home"
         url: ""
+      - title: "The Concept GoodShifter"
+        url: "the-concept-goodshifter"
       - title: "The Project"
         url: "the-project"
       - title: "GoodShifter needs your help!"

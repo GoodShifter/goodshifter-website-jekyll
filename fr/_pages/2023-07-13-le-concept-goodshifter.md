@@ -1,6 +1,6 @@
 ---
 lang-ref: the-concept-goodshifter
-slug: the-concept-goodshifter
+slug: le-concept-goodshifter
 permalink: fr/le-concept-goodshifter
 title: Le Concept GoodShifter
 description: GoodShifter est une application mobile qui a pour ambition de
