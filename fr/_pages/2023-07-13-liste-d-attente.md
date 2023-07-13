@@ -1,6 +1,6 @@
 ---
 lang-ref: landing-page-validation-campaign
-slug: waiting-list
+slug: liste-d-attente
 permalink: fr/liste-d-attente
 title: Liste d'attente
 description: GoodShifter est une application mobile qui a pour ambition de
