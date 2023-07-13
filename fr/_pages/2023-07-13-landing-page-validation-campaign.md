@@ -15,5 +15,6 @@ lang: fr
 categories:
   - fr
 ---
+# Merci de votre intérêt ! 🫶
 
-
+Notre application **GoodShifter** est en cours de développement. 🧑🏻‍💻👩🏼‍💻🤯
