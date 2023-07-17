@@ -19,7 +19,7 @@ lang: fr
 categories:
   - fr
 ---
-Contrairement aux idées reçues, le jus d'orange n'a pas sa place dans un régime miceur et n'est pas specialement bon pour la santé.
+Contrairement aux idées reçues, le jus d'orange n'a pas sa place dans un régime minceur et n'est pas specialement bon pour la santé.
 
 Il est préférable de manger une orange entière plutôt que de boire du jus d'orange pour…
 
