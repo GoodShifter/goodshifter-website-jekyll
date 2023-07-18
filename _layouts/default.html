@@ -23,12 +23,16 @@
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    {% include tracking-google-tag-manager.html %}
+
     {% include tracking-header.html %}
 
 </head>
     
 <body style="background-color: #fdf7f3 !important;">
-    
+
+  {% include tracking-google-tag-manager-no-script.html %}
+  
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top" style="background-color: #fdf7f3 !important; border-bottom: 0px;">
       <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/{{page.lang}}/"><img src="{{site.baseurl}}/{{site.logo}}" height="80px"></a>
       <!-- <h1><a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/{{page.lang}}/">{{site.name}}</a></h1> -->
