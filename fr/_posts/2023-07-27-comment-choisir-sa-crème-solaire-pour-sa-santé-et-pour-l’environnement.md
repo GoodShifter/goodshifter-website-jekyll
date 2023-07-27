@@ -56,7 +56,7 @@ Vous pouvez utiliser les outils de scan de code-barre comme Yuka pour vérifier 
 
 Notre reco :
 
-* [Crème solaire des laboratoires SVR](https://fr.svr.com/products/sun-secure-lait-spf50-1?variant=39282092998721)
+* [Crème solaire du laboratoire SVR](https://fr.svr.com/products/sun-secure-lait-spf50-1?variant=39282092998721)
 
 Sources : \
 [Le Figaro](https://www.lefigaro.fr/voyages/conseils/creme-solaire-faut-il-choisir-entre-proteger-sa-peau-et-preserver-l-environnement-20230705)\
