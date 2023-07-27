@@ -1,7 +1,7 @@
 ---
 lang-ref: suncream
 slug: Crème Solaire
-title: "Comment choisir sa crème solaire pour sa santé et pour l’environnement ? "
+title: "Comment choisir sa crème solaire pour sa santé et pour la planète ? "
 description: "Il est indispensable de protéger sa peau du soleil mais certains
   filtres solaires sont nocifs pour les océans, les coraux et même parfois pour
   la santé humaine. "
@@ -33,14 +33,14 @@ Même problème pour l’oxyde de zinc qui est potentiellement cancérigène sou
 
 #### **Quels sont les critères pour choisir sa crème solaire ?** 
 
-##### **Pour l’environnement, les éléments à rechercher sur l’étiquette :** 
+##### **Pour l’environnement, les éléments à rechercher sur le tube :** 
 
 * Biodégradable
 * Waterproof
 * Avec une mention « Sans octocrylene »
 * Avec un logo « Ocean Respect » (ce n’est pas un label mais ça montre un engagement de la marque)
 
-##### **Pour la santé, les éléments à rechercher sur l’étiquette :** 
+##### **Pour la santé, les éléments à rechercher sur le tube :** 
 
 * Sans perturbateur endocrinien : Octocrylene, Homosalate, Benzophénone- (1 à 5), Ethylhexyl methoxycinnamate, Ethylhexyl salicylate…
 * Sans nanoparticule (ingrédient avec le terme « nano »)
@@ -57,8 +57,6 @@ Vous pouvez utiliser les outils de scan de code-barre comme Yuka pour vérifier 
 Notre reco :
 
 * [Crème solaire des laboratoires SVR](https://fr.svr.com/products/sun-secure-lait-spf50-1?variant=39282092998721)
-
-
 
 Sources : \
 [Le Figaro](https://www.lefigaro.fr/voyages/conseils/creme-solaire-faut-il-choisir-entre-proteger-sa-peau-et-preserver-l-environnement-20230705)\
