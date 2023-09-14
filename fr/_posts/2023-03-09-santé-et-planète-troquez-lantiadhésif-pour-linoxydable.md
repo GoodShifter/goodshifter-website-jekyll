@@ -8,7 +8,7 @@ tags:
   - HPFODA
   - poêle
   - polluant éternel
-image: assets/images/uploads/omnm-poele-nouveau.jpg
+image: /assets/images/uploads/omnm-poele.png
 date: 2023-03-09T14:33:42.425Z
 comments: true
 layout: post
