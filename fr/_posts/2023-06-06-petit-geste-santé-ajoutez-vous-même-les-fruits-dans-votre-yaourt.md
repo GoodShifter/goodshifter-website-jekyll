@@ -9,7 +9,7 @@ tags:
   - yaourt aux fruits
   - yaourt bio
   - yaourt santé
-image: /assets/images/uploads/yaourts-fruits.jpg
+image: /assets/images/uploads/omnm-yaourt.png
 date: 2023-06-06T11:25:22.659Z
 comments: true
 layout: post
