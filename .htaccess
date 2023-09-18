@@ -1,15 +1,15 @@
 ErrorDocument 404 /404.html
 
-RewriteEngine On
+//RewriteEngine On
 
 // Redirect direct call to http(s)://(www.)goodshifter.fr to the URL https://goodshifter.com/fr
-RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.fr$
-RewriteRule ^(/)?$ "https://goodshifter.com/fr" [R=301,L]
-//RewriteRule ^(/)?$ fr [L]
+//RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.fr$
+//RewriteRule ^(/)?$ "https://goodshifter.com/fr" [R=301,L]
+////RewriteRule ^(/)?$ fr [L]
 
 // Redirect direct call to http(s)://(www.)goodshifter.com to the URL https://goodshifter.com/fr
-RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.com$
-RewriteRule ^(/)?$ "https://goodshifter.com/fr" [R=301,L]
+//RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.com$
+//RewriteRule ^(/)?$ "https://goodshifter.com/fr" [R=301,L]
 
 // RewriteEngine On
 // RewriteCond %{https} off
