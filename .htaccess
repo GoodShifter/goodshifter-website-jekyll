@@ -2,6 +2,10 @@ ErrorDocument 404 /404.html
 
 RewriteEngine On
 
+// Force https
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 // Redirect direct call to http(s)://(www.)goodshifter.fr to the URL http://goodshifter.com/fr
 RewriteCond %{HTTP_HOST} ^(www.)?goodshifter.fr$
 RewriteRule ^(/)?$ fr [L]
