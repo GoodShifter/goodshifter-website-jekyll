@@ -46,7 +46,7 @@ Les lessives peuvent contenir divers ingrédients qui sont **problématiques pou
 **Ou en supermarché :** 
 
 Lessive Apta intermarché\
-[Rainett Concentrée aloe vera ](https://rainett.fr/fr/nos-produits-ecologiques/lessive-liquide-peauy-sensibles-aloe-vera.html)\
+Lessive Maison Verte Amande douce [](https://www.maisonverte.fr/product/lessive-eco-pack-peaux-sensibles/)\
 [Carrefour Essential Marseille](https://www.carrefour.fr/p/lessive-liquide-savon-de-marseille-carrefour-essential-3560071467609)
 
 Source : UFC Que choisir, 60 millions de consommateur
