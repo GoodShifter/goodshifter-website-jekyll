@@ -40,14 +40,13 @@ Les lessives peuvent contenir divers ingrédients qui sont **problématiques pou
 
 **En ligne :** 
 
-[La marque en moins](<https://lamarqueenmoins.fr/products/lessive>) \
-[Brauzz](< <https://www.brauzz.fr/products/feuilles-de-lessive>>)
+[La marque en moins](https://lamarqueenmoins.fr/products/lessive) \
+[Brauzz](https://www.brauzz.fr/products/feuilles-de-lessive)
 
 **Ou en supermarché :** 
 
 Lessive Apta intermarché\
-[Rainett Concentrée aloe vera ](https://rainett.fr/fr/nos-produits-ecologiques/lessive-liquide-peauy-sensibles-aloe-vera.html)[Carrefour Essential Marseille](https://www.carrefour.fr/p/lessive-liquide-savon-de-marseille-carrefour-essential-3560071467609)
-
-
+[Rainett Concentrée aloe vera ](https://rainett.fr/fr/nos-produits-ecologiques/lessive-liquide-peauy-sensibles-aloe-vera.html)\
+[Carrefour Essential Marseille](https://www.carrefour.fr/p/lessive-liquide-savon-de-marseille-carrefour-essential-3560071467609)
 
 Source : UFC Que choisir, 60 millions de consommateur
