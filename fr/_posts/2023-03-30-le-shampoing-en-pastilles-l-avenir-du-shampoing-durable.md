@@ -7,7 +7,7 @@ tags:
   - shampoing durable
   - shampoing solide
   - shampoing sans dechet
-image: assets/images/uploads/omnm-shampooing-nouveau.jpg
+image: /assets/images/uploads/omnm-shampooing-.png
 date: 2023-03-30T12:26:21.081Z
 comments: true
 layout: post
