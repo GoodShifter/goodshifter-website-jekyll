@@ -9,7 +9,7 @@ tags:
   - planète
   - plastique
   - pollution
-image: assets/images/uploads/omnm-papierciredabeille-nouveau.jpg
+image: /assets/images/uploads/omnm-film-etirable.png
 date: 2023-03-09T14:20:07.677Z
 comments: true
 layout: post
