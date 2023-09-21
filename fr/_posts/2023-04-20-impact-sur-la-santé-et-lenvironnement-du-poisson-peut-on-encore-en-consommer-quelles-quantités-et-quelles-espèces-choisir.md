@@ -1,12 +1,14 @@
 ---
 lang-ref: guide-fish
 slug: impact-sur-la-sante-et-l-environnement-du-poisson
-title: "Impact sur la santé et l'environnement du poisson : Peut-on encore en consommer? Quelles quantités et quelles espèces choisir ?"
-description: "Impact sur la santé et l'environnement du poisson : Peut-on encore en consommer? Quelles quantités et quelles espèces choisir ?"
+title: "Impact sur la santé et l'environnement du poisson : Peut-on encore en
+  consommer? Quelles quantités et quelles espèces choisir ?"
+description: "Impact sur la santé et l'environnement du poisson : Peut-on encore
+  en consommer? Quelles quantités et quelles espèces choisir ?"
 tags:
   - guide poisson
   - pêche durable
-image: assets/images/uploads/omnm-poissons.jpg
+image: /assets/images/uploads/omnm-poisson-.png
 date: 2023-04-20T09:30:34.883Z
 comments: true
 layout: post
