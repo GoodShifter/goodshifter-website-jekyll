@@ -38,12 +38,16 @@ Les lessives peuvent contenir divers ingrédients qui sont **problématiques pou
 
 **Notre recommandation :** 
 
-**En ligne :** 
+Privilégiez les produits avec le label européen Ecolabel ou le label Ecocert. 
+
+Sinon, voici quelques lessives qui nous semblent avoir un meilleur impact sur la santé et l'environnement que les autres produits.  
+
+**Produits à acheter en ligne (zero déchet) :** 
 
 [La marque en moins](https://lamarqueenmoins.fr/products/lessive) \
 [Brauzz](https://www.brauzz.fr/products/feuilles-de-lessive)
 
-**Ou en supermarché :** 
+**Ou en supermarché (bidon plastique) :** 
 
 Lessive Apta intermarché\
 Lessive L'Arbre Vert Amande douce [](https://www.arbrevert.fr/capsules-de-lessive-tout-en-1-amande-douce-hypoallergenique-20-lavages-)\
