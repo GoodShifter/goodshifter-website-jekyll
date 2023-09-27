@@ -30,9 +30,9 @@ categories:
 
 Et en bonus, des fruits oléagineux (noix, amandes, noisettes) : il faut en manger tous les jours, donc pourquoi pas au petit déjeuner? 
 
-#### Si vous optez pour des céréales pour le petit déjeuner, le choix des flocons d'avoine est préférable aux mueslis et autres céréales industrielles.
+#### Si vous optez pour des céréales pour le petit déjeuner, le choix des flocons d'avoine est préférable aux mueslis et autres céréales industrielles
 
-1. Choisissez-le à **gros flocons car il a un indice glycémique plus faible et donc il est meilleur pour la ligne.** 
+**1.** Choisissez-le à **gros flocons** car il a un indice glycémique plus faible et donc il est meilleur pour la ligne.
 
 **2. Pas d’additif :** Lorsque vous préparez des flocons d'avoine à partir de zéro, vous avez un contrôle total sur les ingrédients que vous ajoutez. Vous pouvez éviter les additifs artificiels, le sucre raffiné et d'autres ingrédients peu sains qui sont parfois présents dans les mélanges de muesli industriels.
 
@@ -46,11 +46,8 @@ Et en bonus, des fruits oléagineux (noix, amandes, noisettes) : il faut en mang
 
 Les flocons d'avoine sont généralement considérés comme ayant un impact climatique relativement faible par rapport à de nombreux autres aliments transformés. 
 
-6. Par exemple,  **les flocons d’avoine Bjorg offrent un bon apport en fibres, protéines,** **ils contiennent peu de sucres et pas d’additif.** **L’eco-score est B et la provenance de ces flocons est l’Union Européenne**. Mais il existe d’autres marques de flocons d’avoine de qualité similaire comme les flocons d’avoine carrefour bio. 
+Par exemple,  **les flocons d’avoine Bjorg offrent un bon apport en fibres, protéines,** **ils contiennent peu de sucres et pas d’additif.** **L’eco-score est B et la provenance de ces flocons est l’Union Européenne**. Mais il existe d’autres marques de flocons d’avoine de qualité similaire comme les flocons d’avoine carrefour bio. 
 
-
-
-Source : 
-
-Fédération de Cardiologie [](https://www.fedecardio.org/je-m-informe/un-petit-dejeuner-equilibre/)\
-[Femme Actuelle](<https://www.femmeactuelle.fr/minceur/astuces-minceur/petit-dejeuner-healthy-8-aliments-incontournables-a-consommer-sans-culpabiliser-2111048>)
+Source : [](https://www.fedecardio.org/je-m-informe/un-petit-dejeuner-equilibre/)\
+[Femme Actuelle](https://www.femmeactuelle.fr/minceur/astuces-minceur/petit-dejeuner-healthy-8-aliments-incontournables-a-consommer-sans-culpabiliser-2111048)\
+[Fédération de Cardiologie](<Fédération de Cardiologie [](https://www.fedecardio.org/je-m-informe/un-petit-dejeuner-equilibre/)>) [](https://www.fedecardio.org/je-m-informe/un-petit-dejeuner-equilibre/)
