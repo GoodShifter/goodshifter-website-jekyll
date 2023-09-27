@@ -1,6 +1,6 @@
 ---
 lang-ref: cereals
-slug: céréales-choisissez-flocons-avoine
+slug: cereales-choisissez-flocons-avoine
 title: "Petit déjeuner :  choisissez bien vos céréales!"
 description: Si vous optez pour des céréales pour le petit déjeuner, le choix
   des flocons d'avoine est préférable aux mueslis et autres céréales
