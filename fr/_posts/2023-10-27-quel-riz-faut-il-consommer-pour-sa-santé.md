@@ -56,7 +56,7 @@ La consommation sur un temps long d’arsenic inorganique peut induire différen
 2. **Rincez le riz avant la cuisson** : Rincer le riz à plusieurs reprises à l'eau propre peut aider à éliminer une partie de l'arsenic de la surface des grains. Des travaux ont montré que la teneur en arsenic chute de 57% lorsque le riz est abondamment rincé à l'eau, plusieurs fois avant la cuisson, et qu'il est cuit dans une plus grande quantité d'eau (six verres d'eau pour un verre de riz).
 3. **Optez pour des méthodes de cuisson qui utilisent plus d'eau :** Lors de la cuisson du riz, utilisez une plus grande quantité d'eau que d'habitude. La méthode de cuisson par absorption, où le riz est cuit dans une petite quantité d'eau qui est ensuite absorbée par le grain, peut concentrer l'arsenic.\
    \
-   La méthode de cuisson par ébullition abondante et drainage ultérieur aide à réduire l'arsenic de 73% sur le riz blanc et 54% sur le riz brun :
+   **La méthode de cuisson par ébullition abondante et drainage ultérieur aide à réduire l'arsenic de 73% sur le riz blanc et 54% sur le riz brun :**
 
 * porter de l’eau à ébullition (quatre verres d’eau pour chaque verre de riz),
 * ajouter le riz et laisser l’eau sur le feu pendant 5 minutes,
