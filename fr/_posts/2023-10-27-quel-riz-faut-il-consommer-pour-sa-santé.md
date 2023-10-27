@@ -44,7 +44,7 @@ Le riz complet est considéré comme plus sain que le riz blanc car il a une mei
 
 #### Pour diminuer l’exposition à l'arsenic, lavez bien votre riz!
 
-L'arsenic est un élément naturel présent dans l'environnement, y compris dans le sol et l'eau mais dont la concentration peut être augmentée par la pollution. Il peut être absorbé par les plantes, y compris le riz, à partir du sol ou de l'eau contaminés. Étant donné que le riz est souvent cultivé dans des environnements où l'eau est utilisée de manière intensive, il peut être particulièrement susceptible à l'accumulation d'arsenic et particulièrement le riz brun. 
+L'arsenic est un élément naturel présent dans l'environnement, y compris dans le sol et l'eau mais dont la concentration peut être augmentée par la pollution. L'arsenic peut être absorbé par les plantes, y compris le riz, à partir du sol ou de l'eau contaminés. Étant donné que le riz est souvent cultivé dans des environnements où l'eau est utilisée de manière intensive, il peut être particulièrement susceptible à l'accumulation d'arsenic et particulièrement le riz brun. 
 
 La consommation sur un temps long d’arsenic inorganique peut induire différents problèmes de santé. Il s’agit plus particulièrement de maladies cardiovasculaires, de certaines formes de cancer, problèmes de peau, diabète…
 
