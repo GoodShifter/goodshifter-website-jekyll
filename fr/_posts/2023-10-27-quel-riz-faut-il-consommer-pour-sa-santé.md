@@ -42,8 +42,7 @@ Le riz complet est considéré comme plus sain que le riz blanc car il a une mei
 5. **Moins de traitements chimiques :** Le riz blanc est souvent soumis à un processus de blanchiment et de polissage, qui peut impliquer l'utilisation de produits chimiques. Le riz complet est moins transformé, ce qui signifie qu'il est exposé à moins de substances chimiques potentiellement nocives.
 6. **Antioxydants :** Le son de riz, une partie du riz complet, contient des composés bénéfiques tels que des antioxydants, qui peuvent aider à protéger les cellules contre les dommages.
 
-#### \
-Pour diminuer l’exposition à l'arsenic, bien lavez votre riz…
+#### Pour diminuer l’exposition à l'arsenic, bien lavez votre riz…
 
 L'arsenic est un élément naturel présent dans l'environnement, y compris dans le sol et l'eau mais dont la concentration peut être augmentée par la pollution. Il peut être absorbé par les plantes, y compris le riz, à partir du sol ou de l'eau contaminés. Étant donné que le riz est souvent cultivé dans des environnements où l'eau est utilisée de manière intensive, il peut être particulièrement susceptible à l'accumulation d'arsenic et particulièrement le riz brun. 
 
@@ -72,8 +71,6 @@ Cette façon de cuire le riz est particulièrement conseillée pour les enfants 
 **5. Limitez la consommation de riz pour les nourrissons et les jeunes enfants :** Les jeunes enfants sont plus sensibles aux effets de l'arsenic. Limitez la quantité de riz et de produits à base de riz dans l'alimentation des nourrissons et des jeunes enfants.
 
 **6. Vérifiez les sources d'eau :** Si votre eau potable provient d'un puits privé, faites-la tester pour l'arsenic. Si l'eau de votre puits contient des niveaux élevés d'arsenic, cela peut également contribuer à votre exposition.
-
-
 
 Source : 
 
