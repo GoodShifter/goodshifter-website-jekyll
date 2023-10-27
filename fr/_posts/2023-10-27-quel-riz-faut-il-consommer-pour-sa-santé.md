@@ -13,7 +13,7 @@ tags:
   - riz complet
   - riz brun
   - riz basmati
-image: /assets/images/uploads/omnm-riz-.png
+image: /assets/images/uploads/omnm-riz-2.png
 date: 2023-10-27T08:10:56.804Z
 comments: true
 layout: post
