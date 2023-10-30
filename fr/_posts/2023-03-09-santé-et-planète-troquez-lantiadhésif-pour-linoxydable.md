@@ -8,7 +8,7 @@ tags:
   - HPFODA
   - poêle
   - polluant éternel
-image: /assets/images/uploads/omnm-poele.png
+image: /assets/images/uploads/omnm-poele-.png
 date: 2023-03-09T14:33:42.425Z
 comments: true
 layout: post
@@ -16,7 +16,7 @@ lang: fr
 categories:
   - fr
 ---
-Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extremement préoccupante par l'UE**.\
+Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extremement préoccupante par l'UE**. Il serait lui aussi cancérogène, et en plus, toxique pour le foie, les reins ou encore le système immunitaire d'apres une étude Australienne. \
 \
 En effet, si la poêle est rayée ou si elle est trop chauffée, cela peut générer les effets suivants..
 
@@ -34,7 +34,7 @@ Pour minimiser les risques pour la santé liés aux poêles antiadhésives, il e
 * **Évitez les poêles endommagées :** Si le revêtement antiadhésif est écaillé ou endommagé, il est préférable de ne plus utiliser la poêle, car cela peut entraîner la libération de particules dans les aliments.
 * **Optez pour des alternatives sûres :** Si vous êtes préoccupé par les risques pour la santé liés aux poêles antiadhésives, vous pouvez envisager d'utiliser des poêles en acier inoxydable, en fonte ou en céramique, qui sont des alternatives plus sûres.
 
-#### Les poêles en acier inoxydable, en fonte ou en céramique sont des alternatives plus sûres
+#### Les poêles en acier inoxydable sont une alternative plus sûre
 
 En effet, l'utilisation de casseroles et poêles  en acier inoxydable plutôt que de casseroles antiadhésives présente plusieurs avantages. Voici quelques raisons:
 
@@ -49,3 +49,9 @@ Dans l'ensemble, l'utilisation de casseroles en acier inoxydable est un meilleur
 N﻿otre sélection :
 [D﻿e buyer](https://www.debuyer.com/fr/353-batteries-de-cuisine)\
 [Cristel](https://www.cristel.com/fr/produits/poele-haute-inox-mutine-amovible)
+
+Source : 
+
+https://echa.europa.eu/fr/hot-topics/perfluoroalkyl-chemicals-pfas\
+https://www.francetvinfo.fr/replay-radio/c-est-ma-sante/les-risques-cancerogenes-du-teflon-pointes-du-doigt-par-des-universitaires-australiens_5432443.html\
+https://www.sciencedirect.com/science/article/abs/pii/S004896972205392X?via%3Dihub
