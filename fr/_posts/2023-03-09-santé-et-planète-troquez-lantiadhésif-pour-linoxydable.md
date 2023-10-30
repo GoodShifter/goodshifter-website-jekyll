@@ -16,7 +16,7 @@ lang: fr
 categories:
   - fr
 ---
-Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extremement préoccupante par l'UE**.\
+Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extremement préoccupante par l'UE**. Il serait lui aussi cancérogène, et en plus, toxique pour le foie, les reins ou encore le système immunitaire d'apres une étude Australienne. \
 \
 En effet, si la poêle est rayée ou si elle est trop chauffée, cela peut générer les effets suivants..
 
@@ -49,3 +49,9 @@ Dans l'ensemble, l'utilisation de casseroles en acier inoxydable est un meilleur
 N﻿otre sélection :
 [D﻿e buyer](https://www.debuyer.com/fr/353-batteries-de-cuisine)\
 [Cristel](https://www.cristel.com/fr/produits/poele-haute-inox-mutine-amovible)
+
+Source : 
+
+https://echa.europa.eu/fr/hot-topics/perfluoroalkyl-chemicals-pfas\
+https://www.francetvinfo.fr/replay-radio/c-est-ma-sante/les-risques-cancerogenes-du-teflon-pointes-du-doigt-par-des-universitaires-australiens_5432443.html\
+https://www.sciencedirect.com/science/article/abs/pii/S004896972205392X?via%3Dihub
