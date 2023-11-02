@@ -32,9 +32,9 @@ Pour minimiser les risques pour la santé liés aux poêles antiadhésives, il e
 * **Utilisez à basse ou moyenne température :** Évitez de surchauffer la poêle. Utilisez-la à des températures basses ou moyennes pour éviter la dégradation du revêtement.
 * **Utilisez des ustensiles en bois, en silicone ou en plastique :** Évitez d'utiliser des ustensiles en métal qui pourraient rayer le revêtement.
 * **Évitez les poêles endommagées :** Si le revêtement antiadhésif est écaillé ou endommagé, il est préférable de ne plus utiliser la poêle, car cela peut entraîner la libération de particules dans les aliments.
-* **Optez pour des alternatives sûres :** Si vous êtes préoccupé par les risques pour la santé liés aux poêles antiadhésives, vous pouvez envisager d'utiliser des poêles en acier inoxydable, en fonte ou en céramique, qui sont des alternatives plus sûres.
+* **Optez pour des alternatives sûres :** Si vous êtes préoccupé par les risques pour la santé liés aux poêles antiadhésives, vous pouvez envisager d'utiliser des poêles en acier inoxydable ou en fonte, qui sont des alternatives plus sûres.
 
-#### Les poêles en acier inoxydable sont une alternative plus sûre
+#### Les poêles en acier inoxydable sont une alternative plus sûreen 
 
 En effet, l'utilisation de casseroles et poêles  en acier inoxydable plutôt que de casseroles antiadhésives présente plusieurs avantages. Voici quelques raisons:
 
