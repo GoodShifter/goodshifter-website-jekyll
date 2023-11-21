@@ -30,8 +30,6 @@ C’est aussi le faible prix d’achat du cacao qui pousse les petits producteur
 
 #### Alors quel chocolat choisir pour consommer de manière responsable?
 
-
-
 Il faut investir dans des **chocolats qui sont certifiés par des labels indépendants, de préférence bio et équitables.** 
 
 **Les labels de commerce équitable (PP, WFTO, Fair for life ou Bio Partenaire, Fairtrade/Max Havelaar)** offrent déjà une amélioration des conditions de vie des producteurs mais elles sont plus ou moins importantes en fonction des labels et du niveau de traçabilité des produits. 
@@ -48,4 +46,4 @@ C’est le cas pour le **chocolat Alter Eco** qui par ailleurs soutient des coop
 
 Il faut **se méfier des labels créés par les industriels,** comme le Cocoa Plan pour Nestlé, ou le Cocoa Life de Mondelez. Ils ne sont pas contrôlés par un organisme extérieur, ils sont donc davantage le gage d’une démarche vers la durabilité que l’assurance que le cacao utilisé a été produit de manière responsable. 
 
-En effet, l’association Mighty Earth a créé un [classement des principales marques de chocolat](http://www.mightyearth.org/wp-content/uploads/Mighty-Easter-Chocolate-Buying-Guide-Final-low.pdf) en termes de leurs engagements pris en faveur de l'environnement et des conditions de vie des producteurs et certains industriels sont mal notés malgré la présence d'un label "maison". En revanche, **les marques Lindt et Valrhona sont parmi les mieux positionnées.**
+En effet, l’association Mighty Earth a créé un [classement des principales marques de chocolat](http://www.mightyearth.org/wp-content/uploads/Mighty-Easter-Chocolate-Buying-Guide-Final-low.pdf) en termes de leurs engagements pris en faveur de l'environnement et des conditions de vie des producteurs et certains industriels sont mal notés malgré la présence d'un label interne. En revanche, **les marques Lindt et Valrhona sont parmi les mieux positionnées.**
