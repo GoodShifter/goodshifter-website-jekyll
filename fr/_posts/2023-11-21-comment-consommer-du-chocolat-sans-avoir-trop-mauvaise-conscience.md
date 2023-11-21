@@ -11,7 +11,7 @@ tags:
   - social
   - commerce équitable
   - label
-  - écologique.
+  - écologique
   - chocolat bio
 image: /assets/images/uploads/omnm-chocolat.png
 date: 2023-11-21T09:52:08.797Z
