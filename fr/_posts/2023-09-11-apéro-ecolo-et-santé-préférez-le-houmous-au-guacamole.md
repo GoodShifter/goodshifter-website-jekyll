@@ -62,6 +62,6 @@ Le guacamole est principalement composé d'avocats, qui bien qu’ils sont riche
 
 **2. Utilisation de l'eau :** Les avocatiers peuvent être gourmands en eau, ce qui contribue à la pression sur les ressources en eau dans les régions où ils sont cultivés.
 
-**3. Transport :** Les avocats sont souvent importés sur de longues distances, ce qui peut entraîner une empreinte carbone plus élevée en raison du transport.
-
+**3. Transport :** Les avocats sont souvent importés sur de longues distances, ce qui peut entraîner une empreinte carbone plus élevée en raison du transport.\
+\
 4. Le guacamole est **plus gras** que le houmous!
