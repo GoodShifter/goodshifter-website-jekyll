@@ -64,4 +64,4 @@ Le guacamole est principalement composé d'avocats, qui bien qu’ils sont riche
 
 **3. Transport :** Les avocats sont souvent importés sur de longues distances, ce qui peut entraîner une empreinte carbone plus élevée en raison du transport.\
 \
-4.le guacamole est **plus gras** que le houmous!
+4. Le guacamole est **plus gras** que le houmous!
