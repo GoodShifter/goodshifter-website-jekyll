@@ -35,18 +35,16 @@ Pour minimiser les risques pour la santé liés aux poêles antiadhésives, il e
 
 #### Les poêles en acier inoxydable sont une alternative plus sûre
 
-1. Durabilité :  Ils résistent aux rayures et peuvent supporter des températures élevées sans se déformer ni se dégrader. 
-2. Sécurité : Les poêles en acier inoxydable, quant à elles, sont fabriquées à partir d'un matériau naturel et ne contiennent aucun produit chimique nocif pouvant s'infiltrer dans vos aliments. 
-3. Polyvalence : Les poêles en acier inoxydable peuvent être utilisées pour  sauter, frire, bouillir et rôtir .                                                                 
-4. Cuisson : Les casseroles en acier inoxydable sont plus efficaces pour faire dorer les aliments. En effet, ils conduisent la chaleur plus uniformément et ont une meilleure surface pour la caramélisation. 
+1. **Durabilité :**  Ils résistent aux rayures et peuvent supporter des températures élevées sans se déformer ni se dégrader. 
+2. **Sécurité :** Les poêles en acier inoxydable, quant à elles, sont fabriquées à partir d'un matériau naturel et ne contiennent aucun produit chimique nocif pouvant s'infiltrer dans vos aliments. 
+3. **Polyvalence** : Les poêles en acier inoxydable peuvent être utilisées pour  sauter, frire, bouillir et rôtir .                                                                 
+4. **Cuisson :** Les casseroles en acier inoxydable sont plus efficaces pour faire dorer les aliments. En effet, ils conduisent la chaleur plus uniformément et ont une meilleure surface pour la caramélisation. 
 
 #### C﻿omment cuire sans accrocher dans les poêles en inox? (et les laver ensuite)
 
 **L﻿a cuisson :** Pour éviter que les aliments ne collent dans l’inox il faut verser quelques gouttes d’eau dans une poêle chauffée à feu vif. Si les gouttes crépitent et glissent sur la poêle, c’est que la température est idéale. Vous pouvez alors baisser légèrement le feu et y mettre des aliments. Si les gouttes se délitent, c’est que la poêle n’est pas encore assez chaude. Pour les œufs ou les légumes, il vaut mieux rajouter de la matière grasse. Autre conseil : ajoutez des aliments qui sont à température ambiante dans la poêle. 
 
 **Le nettoyage :** les poêles en acier inoxydable peuvent être lavés à l'eau et au savon et vont au lave-vaisselle. Nous vous conseillons de les laver à chaud sous l'eau froide pour décoller les aliments. 
-
-
 
 N﻿otre sélection :
 [D﻿e buyer](https://www.debuyer.com/fr/353-batteries-de-cuisine)\
