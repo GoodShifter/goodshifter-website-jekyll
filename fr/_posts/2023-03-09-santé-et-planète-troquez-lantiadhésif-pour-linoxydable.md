@@ -21,7 +21,7 @@ Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les al
 En effet, **si la poêle est rayée ou si elle est trop chauffée**, cela peut générer les effets suivants..
 
 1. **Émission de fumées toxiques si** la poêle est surchauffée. 
-2. **Libération de substances chimiques**  dans les aliments qui sont nocifs pour la santé notamment en   cas d'utilisation d'ustensiles en métal ou abrasifs peut rayer le revêtement antiadhésif.
+2. **Libération de substances chimiques**  dans les aliments 
 3. **Allergies et sensibilités :** Certaines personnes peuvent être allergiques aux revêtements antiadhésifs.
 
 #### Pour minimiser les risques pour la santé liés aux poêles antiadhésives
