@@ -16,35 +16,37 @@ lang: fr
 categories:
   - fr
 ---
-Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extremement préoccupante par l'UE**. Il serait lui aussi cancérogène, et en plus, toxique pour le foie, les reins ou encore le système immunitaire d'apres une étude Australienne. \
+Les poêles antiadhésives sont recouvertes d'un revêtement qui empêche les aliments de coller à la surface lors de la cuisson. **Il s'agit d’un matériau synthétique appelé polytétrafluoroéthylène (PTFE)**. Il contenait avant du PFOA qui est maintenant interdit par l’UE et qui a été remplacé par **GenX (HPFODA) aussi considéré comme une substance extrêmement préoccupante par l'UE**. Il serait lui aussi cancérogène, et en plus, toxique pour le foie, les reins ou encore le système immunitaire d'après une étude Australienne.\
 \
-En effet, si la poêle est rayée ou si elle est trop chauffée, cela peut générer les effets suivants..
+En effet, **si la poêle est rayée ou si elle est trop chauffée**, cela peut générer les effets suivants..
 
-1. **Émission de fumées toxiques :** Si la poêle est surchauffée (à des températures supérieures à 260°C ou 500°F), elle peut émettre des fumées contenant des composés chimiques potentiellement toxiques, tels que le polytétrafluoroéthylène (PTFE) présent dans le revêtement antiadhésif.
-2. **Libération de substances chimiques :** À des températures élevées, le revêtement antiadhésif peut se dégrader et libérer des substances chimiques dans les aliments, ce qui peut être nocif pour la santé si ces substances sont ingérées.
-3. **Libération de particules dans les aliments :** L'utilisation d'ustensiles en métal ou abrasifs peut rayer le revêtement antiadhésif, ce qui peut entraîner la libération de particules dans les aliments. L'ingestion de ces particules n'est vraiment pas souhaitable.
-4. **Allergies et sensibilités :** Certaines personnes peuvent être allergiques ou sensibles aux composés chimiques présents dans les revêtements antiadhésifs, ce qui peut provoquer des réactions allergiques ou des problèmes de santé.
+1. **Émission de fumées toxiques si** la poêle est surchauffée. 
+2. **Libération de substances chimiques**  dans les aliments qui sont nocifs pour la santé notamment en   cas d'utilisation d'ustensiles en métal ou abrasifs peut rayer le revêtement antiadhésif.
+3. **Allergies et sensibilités :** Certaines personnes peuvent être allergiques aux revêtements antiadhésifs.
 
 #### Pour minimiser les risques pour la santé liés aux poêles antiadhésives
 
 Pour minimiser les risques pour la santé liés aux poêles antiadhésives, il est recommandé de suivre ces conseils :
 
-* **Utilisez à basse ou moyenne température :** Évitez de surchauffer la poêle. Utilisez-la à des températures basses ou moyennes pour éviter la dégradation du revêtement.
-* **Utilisez des ustensiles en bois, en silicone ou en plastique :** Évitez d'utiliser des ustensiles en métal qui pourraient rayer le revêtement.
-* **Évitez les poêles endommagées :** Si le revêtement antiadhésif est écaillé ou endommagé, il est préférable de ne plus utiliser la poêle, car cela peut entraîner la libération de particules dans les aliments.
-* **Optez pour des alternatives sûres :** Si vous êtes préoccupé par les risques pour la santé liés aux poêles antiadhésives, vous pouvez envisager d'utiliser des poêles en acier inoxydable ou en fonte, qui sont des alternatives plus sûres.
+* **Utilisez à basse ou moyenne température :** 
+* **Utilisez des ustensiles en bois, en silicone ou en plastique** 
+* **Évitez les poêles endommagées** 
+* **Optez pour des alternatives sûres :**  des poêles en acier inoxydable ou en fonte.
 
 #### Les poêles en acier inoxydable sont une alternative plus sûre
 
-En effet, l'utilisation de casseroles et poêles  en acier inoxydable plutôt que de casseroles antiadhésives présente plusieurs avantages. Voici quelques raisons:
+1. Durabilité :  Ils résistent aux rayures et peuvent supporter des températures élevées sans se déformer ni se dégrader. 
+2. Sécurité : Les poêles en acier inoxydable, quant à elles, sont fabriquées à partir d'un matériau naturel et ne contiennent aucun produit chimique nocif pouvant s'infiltrer dans vos aliments. 
+3. Polyvalence : Les poêles en acier inoxydable peuvent être utilisées pour  sauter, frire, bouillir et rôtir .                                                                 
+4. Cuisson : Les casseroles en acier inoxydable sont plus efficaces pour faire dorer les aliments. En effet, ils conduisent la chaleur plus uniformément et ont une meilleure surface pour la caramélisation. 
 
-1. Durabilité : Les casseroles en acier inoxydable sont plus durables et durables que les casseroles antiadhésives. Ils résistent aux rayures et peuvent supporter des températures élevées sans se déformer ni se dégrader. Cela signifie qu'ils peuvent être utilisés pendant des années sans avoir besoin d'être remplacés.
-2. Sécurité : Les poêles antiadhésives sont recouvertes d'un matériau synthétique appelé polytétrafluoroéthylène (PTFE), qui peut dégager des fumées toxiques lorsqu'il est chauffé à des températures élevées. Les casseroles en acier inoxydable, quant à elles, sont fabriquées à partir d'un matériau naturel et ne contiennent aucun produit chimique nocif pouvant s'infiltrer dans vos aliments.
-3. Polyvalence : Les casseroles en acier inoxydable sont polyvalentes et peuvent être utilisées pour une large gamme de méthodes de cuisson, telles que sauter, frire, bouillir et rôtir. Ils peuvent également être utilisés au four ou sur un gril, ce qui en fait un outil polyvalent dans la cuisine.                                                                    
-4. Cuisson : Les casseroles en acier inoxydable sont plus efficaces pour faire dorer les aliments que les casseroles antiadhésives. En effet, ils conduisent la chaleur plus uniformément et ont une meilleure surface pour la caramélisation. Cela signifie que vous pouvez obtenir une croûte croustillante sur les viandes et les légumes, ce qui peut rehausser la saveur et la texture de vos plats.
-5. Facile à nettoyer : les casseroles en acier inoxydable sont faciles à nettoyer et à entretenir. Ils peuvent être lavés à l'eau et au savon et vont au lave-vaisselle. Ils ne nécessitent pas non plus d'outils ou de matériaux de nettoyage spéciaux, contrairement aux poêles antiadhésives, qui nécessitent un nettoyage en douceur pour éviter d'endommager le revêtement antiadhésif.
+#### C﻿omment cuire sans accrocher dans les poêles en inox? (et les laver ensuite)
 
-Dans l'ensemble, l'utilisation de casseroles en acier inoxydable est un meilleur choix que les casseroles antiadhésives, car elles sont plus durables, sûres, polyvalentes, mieux dorées et faciles à nettoyer. Bien que les poêles antiadhésives puissent sembler plus pratiques, leurs revêtements synthétiques peuvent présenter des risques pour la santé.
+**L﻿a cuisson :** Pour éviter que les aliments ne collent dans l’inox il faut verser quelques gouttes d’eau dans une poêle chauffée à feu vif. Si les gouttes crépitent et glissent sur la poêle, c’est que la température est idéale. Vous pouvez alors baisser légèrement le feu et y mettre des aliments. Si les gouttes se délitent, c’est que la poêle n’est pas encore assez chaude. Pour les œufs ou les légumes, il vaut mieux rajouter de la matière grasse. Autre conseil : ajoutez des aliments qui sont à température ambiante dans la poêle. 
+
+**Le nettoyage :** les poêles en acier inoxydable peuvent être lavés à l'eau et au savon et vont au lave-vaisselle. Nous vous conseillons de les laver à chaud sous l'eau froide pour décoller les aliments. 
+
+
 
 N﻿otre sélection :
 [D﻿e buyer](https://www.debuyer.com/fr/353-batteries-de-cuisine)\
@@ -52,6 +54,6 @@ N﻿otre sélection :
 
 Source : 
 
-https://echa.europa.eu/fr/hot-topics/perfluoroalkyl-chemicals-pfas\
-https://www.francetvinfo.fr/replay-radio/c-est-ma-sante/les-risques-cancerogenes-du-teflon-pointes-du-doigt-par-des-universitaires-australiens_5432443.html\
-https://www.sciencedirect.com/science/article/abs/pii/S004896972205392X?via%3Dihub
+[E﻿cha Europe](https://echa.europa.eu/fr/hot-topics/perfluoroalkyl-chemicals-pfas)\
+[F﻿rance Info TV](https://www.francetvinfo.fr/replay-radio/c-est-ma-sante/les-risques-cancerogenes-du-teflon-pointes-du-doigt-par-des-universitaires-australiens_5432443.html)\
+[S﻿cience Direct](https://www.sciencedirect.com/science/article/abs/pii/S004896972205392X?via%3Dihub)
