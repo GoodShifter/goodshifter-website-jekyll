@@ -28,5 +28,5 @@ Ce régime a été conçu pour proposer une référence qui permette une alimen
 Il a été conçu par la commission EAT-lancet présidée par les professeurs Walter Willett (Harvard) et Johan Rockström et qui réunit 19 commissaires et 18 co-auteurs provenant de 16 pays différents et dotés d’expertise dans divers domaines dont la santé humaine, l'agriculture, les sciences politiques et environnementales.
 
 S﻿ource : \
-﻿R[apport de EAT-Lancet](https://eatforum.org/content/uploads/2019/07/EAT-Lancet_Commission_Summary_Report_French.pdf)\
+[﻿Rapport de EAT-Lancet](https://eatforum.org/content/uploads/2019/07/EAT-Lancet_Commission_Summary_Report_French.pdf)\
 [A﻿rticle sur l'étude de Linh Bui](https://www.rtbf.be/article/les-aliments-bons-pour-la-planete-le-sont-egalement-pour-notre-sante-11233371)
