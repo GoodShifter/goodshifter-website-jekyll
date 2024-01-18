@@ -12,7 +12,7 @@ tags:
   - aliments écolo
   - regime
   - régime planète
-image: /assets/images/uploads/regime-1-.png
+image: /assets/images/uploads/regime-new.png
 date: 2024-01-18T09:36:19.946Z
 comments: true
 layout: post
