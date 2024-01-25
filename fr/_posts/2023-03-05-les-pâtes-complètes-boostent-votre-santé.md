@@ -9,7 +9,7 @@ tags:
   - santé
   - régime
   - nutriments
-image: assets/images/uploads/image-10-03-2023-at-10.42.jpeg
+image: /assets/images/uploads/omnm-pates.png
 date: 2023-03-05T01:51:53.748Z
 comments: true
 layout: post
