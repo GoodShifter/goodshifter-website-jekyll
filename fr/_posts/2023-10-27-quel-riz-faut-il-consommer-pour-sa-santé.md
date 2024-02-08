@@ -72,12 +72,10 @@ Cette façon de cuire le riz est particulièrement conseillée pour les enfants 
 
 **6. Vérifiez les sources d'eau :** Si votre eau potable provient d'un puits privé, faites-la tester pour l'arsenic. Si l'eau de votre puits contient des niveaux élevés d'arsenic, cela peut également contribuer à votre exposition.
 
-Source : 
+Source : \
+[Santé NEWS](<https://www.santenews.eu/le-riz-cuisson-rapide-tres-mauvais-pour-notre-digestion/>)\
+[TOP SANTÉ](<https://www.topsante.com/nutrition-et-recettes/manger-equilibre/manger-moins-sucre/riz-cuisson-rapide-digestion-656009#:~:text=Moins%20le%20riz%20est%20rapide,plus%20int%C3%A9ressant%20pour%20la%20sant%C3%A9.>)\
+[Doctissimo](<https://www.doctissimo.fr/html/nutrition/securite/15891-arsenic-alimentation-riz.htm>)\
+[France Info](<https://www.francetvinfo.fr/sante/alimentation/une-nouvelle-methode-pour-cuire-le-riz-et-eliminer-les-residus-d-arsenic_1018449.html>)
 
-<https://www.santenews.eu/le-riz-cuisson-rapide-tres-mauvais-pour-notre-digestion/>
-
-<https://www.topsante.com/nutrition-et-recettes/manger-equilibre/manger-moins-sucre/riz-cuisson-rapide-digestion-656009#:~:text=Moins%20le%20riz%20est%20rapide,plus%20int%C3%A9ressant%20pour%20la%20sant%C3%A9.>
-
-<https://www.doctissimo.fr/html/nutrition/securite/15891-arsenic-alimentation-riz.htm>
-
-<https://www.francetvinfo.fr/sante/alimentation/une-nouvelle-methode-pour-cuire-le-riz-et-eliminer-les-residus-d-arsenic_1018449.html>
+[](https://www.francetvinfo.fr/sante/alimentation/une-nouvelle-methode-pour-cuire-le-riz-et-eliminer-les-residus-d-arsenic_1018449.html)
