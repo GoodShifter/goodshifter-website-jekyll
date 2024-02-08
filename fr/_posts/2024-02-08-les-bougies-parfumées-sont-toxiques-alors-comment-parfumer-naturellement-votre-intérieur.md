@@ -25,7 +25,7 @@ categories:
 
 Les bougies parfumées sont généralement fabriquées à partir de cires comme la paraffine, le soja ou la cire d'abeille, et elles contiennent souvent des composés chimiques pour parfumer. 
 
-Que le parfum soit de synthèse, naturels ou à base d’huiles essentielles, les bougies émettent, en se consumant, des [composés organiques volatils](https://www.20minutes.fr/sante/1791279-20160221-sante-comment-eliminer-substances-toxiques-chambre-bebe) dangereux pour la santé tels que le benzène, le formaldéhyde (2 particules classées “cancérigènes avérés” par le CIRC), le toluène et les hydrocarbures aromatiques polycycliques (HAP), qui peuvent causer des intolérances respiratoires comme [l'asthme](https://www.20minutes.fr/sante/2494435-20190411-asthme-pollution-routiere-responsable-quatre-millions-nouveaux-cas-chez-enfants-chaque-annee), des affections des yeux et de la peau, des troubles cardiovasculaires. Ces bougies continuent de générer des polluants toxiques même après avoir été éteintes. 
+Que le parfum soit de synthèse, naturels ou à base d’huiles essentielles, les bougies émettent, en se consumant, des composés organiques volatils dangereux pour la santé tels que le benzène, le formaldéhyde (2 particules classées “cancérigènes avérés” par le CIRC), le toluène et les hydrocarbures aromatiques polycycliques (HAP), qui peuvent causer des intolérances respiratoires comme l'asthme, des affections des yeux et de la peau, des troubles cardiovasculaires. Ces bougies continuent de générer des polluants toxiques même après avoir été éteintes. 
 
 Il est conseillé d'aérer la pièce après l’utilisation.   
 
@@ -67,4 +67,5 @@ Utilisez des diffuseurs d'huiles essentielles pour diffuser des parfums naturels
 
 **Sources :** 
 
-[Le Figaro](<https://www.lefigaro.fr/jardin/fiche-plante/2015/05/11/30011-20150511ARTFIG00278-menthe-verte.php>) [](https://www.lefigaro.fr/jardin/fiche-plante/2015/05/11/30011-20150511ARTFIG00278-menthe-verte.php)[20 Minutes](<https://www.20minutes.fr/sante/4013698-20221210-noel-elles-sentent-bon-bougies-parfumees-elles-risque-qualite-air-interieur>)
+[Le Figaro](https://www.lefigaro.fr/jardin/fiche-plante/2015/05/11/30011-20150511ARTFIG00278-menthe-verte.php) [](https://www.lefigaro.fr/jardin/fiche-plante/2015/05/11/30011-20150511ARTFIG00278-menthe-verte.php)\
+[20 Minutes](https://www.20minutes.fr/sante/4013698-20221210-noel-elles-sentent-bon-bougies-parfumees-elles-risque-qualite-air-interieur)
