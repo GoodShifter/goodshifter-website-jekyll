@@ -34,7 +34,7 @@ L'usage régulier de produits d’entretien à base de composants chimiques sera
 5. **Optez pour des formulations douces,** **voire à fabriquer soi-même** : Utilisez des ingrédients doux et non irritants comme le vinaigre, le savon noir et le bicarbonate de soude. Par exemple, réalisez un nettoyant multi-usage en mélangeant ¼ de tasse de paillettes de savon de Marseille dans 4 L d’eau chaude, 2 cuillères à soupe de bicarbonate de soude et 4 cuillères à soupe de vinaigre blanc.
 6. **Privilégiez les emballages écologiques :** Optez pour des produits avec un emballage minimal ou recyclable afin de réduire les déchets. Les contenants réutilisables ou les recharges sont également des alternatives intéressantes.
 7. **De l'eau et un chiffon microfibre suffisent** pour le nettoyage dans de nombreux cas.
-8. **U﻿tilisez un masque** quand vous utilisez des produits d'entretien à base de compsants chimiques. 
+8. **U﻿tilisez un masque** quand vous utilisez des produits d'entretien à base de composants chimiques. 
 
 S﻿ources : \
 [A﻿deme](https://agirpourlatransition.ademe.fr/particuliers/maison/menage/faire-menage-facon-plus-ecologique)\
