@@ -1,8 +1,8 @@
 ---
 lang-ref: multi-purpose-cleaner
 slug: Nettoyant-multi-usage-attention-danger
-title: Comment choisir un nettoyant ménager multi-usage qui n'est pas toxique
-  pour la santé et pour la planète
+title: Comment choisir un nettoyant ménager multi-usage sûr pour la santé et
+  pour la planète?
 description: "L'usage de produits ménagers peut être aussi nocif sur la santé
   que de fumer un paquet de cigarettes, alors comment choisir un produit ménager
   qui ne nuit pas à notre santé ni à l'environnment. "
