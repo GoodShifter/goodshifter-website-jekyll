@@ -1,7 +1,7 @@
 ---
 lang-ref: privacy-policy
 slug: politique-de-confidentialite
-permalink: politique-de-confidentialite
+permalink: fr/politique-de-confidentialite
 title: Politique de Confidentialite
 description: Politique de Confidentialite de l'application mobile GoodShifter.
 image: /assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
