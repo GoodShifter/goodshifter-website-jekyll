@@ -1,6 +1,12 @@
 ---
-title: "Privacy Policy"
-permalink: "/privacy-policy.html"
+lang-ref: privacy-policy
+slug: privacy-policy
+permalink: /privacy-policy.html
+title: Privacy Policy
+description: Privacy Policy
+image: /assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
+date: 2024-09-02T20:37:13.033Z
+comments: true
 ---
 
 "{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
