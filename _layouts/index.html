@@ -33,7 +33,7 @@ layout: default
       {% endcomment %}
       
       {% assign posts = site.posts | where: "lang", page.lang %}
-      {% for post in posts  %}
+      {% for post in posts %}
       {% include card-post.html %}
       {% endfor %}
       

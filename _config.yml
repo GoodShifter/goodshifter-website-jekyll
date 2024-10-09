@@ -14,6 +14,9 @@ email: 'wowthemesnet@gmail.com'
 
 permalink: /:categories/:title/
 
+future: true
+draft: false
+
 include:
   - _pages
   - .htaccess
