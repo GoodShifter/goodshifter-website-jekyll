@@ -72,4 +72,4 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 50
+paginate: 20
