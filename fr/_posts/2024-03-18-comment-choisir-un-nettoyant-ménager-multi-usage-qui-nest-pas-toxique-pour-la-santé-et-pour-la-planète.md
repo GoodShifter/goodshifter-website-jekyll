@@ -1,6 +1,6 @@
 ---
 lang-ref: multi-purpose-cleaner
-slug: Nettoyant-multi-usage-attention-danger
+slug: nettoyant-multi-usage-attention-danger
 title: Comment choisir un nettoyant ménager multi-usage sûr pour la santé et
   pour la planète?
 description: "L'usage de produits ménagers peut être aussi nocif sur la santé
