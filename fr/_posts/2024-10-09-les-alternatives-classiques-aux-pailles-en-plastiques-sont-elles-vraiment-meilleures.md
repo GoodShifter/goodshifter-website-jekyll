@@ -14,7 +14,7 @@ tags:
   - pailles inox impact environnement
   - santé sans paille
 image: /assets/images/uploads/omnm-paille-2.png
-date: 2024-10-09T21:31:47.394Z
+date: 2024-10-08T21:31:47.394Z
 comments: true
 layout: post
 lang: fr
