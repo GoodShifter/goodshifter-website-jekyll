@@ -1,5 +1,5 @@
 ---
-lang-ref: pailles-a-boire
+lang-ref: drinking-straws
 slug: pailles-a-boire
 title: Les alternatives classiques aux pailles en plastiques sont-elles vraiment
   meilleures ?
