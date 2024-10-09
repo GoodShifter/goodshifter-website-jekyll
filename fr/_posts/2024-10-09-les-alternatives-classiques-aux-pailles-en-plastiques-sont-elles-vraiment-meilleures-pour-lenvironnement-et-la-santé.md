@@ -2,7 +2,7 @@
 lang-ref: pailles-a-boire
 slug: pailles-a-boire
 title: Les alternatives classiques aux pailles en plastiques sont-elles vraiment
-  meilleures pour l'environnement et la santé?
+  meilleures ?
 description: "Les alternatives classiques aux pailles en plastiques (en papier,
   en bambou....) ne sont pas meilleures pour l'environnement et la santé. Mieux
   vaut ne pas utiliser de pailles du tout ou des pailles en seigle bio. "
