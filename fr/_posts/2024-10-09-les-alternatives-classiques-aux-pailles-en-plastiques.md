@@ -1,8 +1,8 @@
 ---
-lang-ref: drinking-straws
-slug: pailles-a-boire
-title: "Les alternatives classiques aux pailles en plastiques sont-elles vraiment
-  meilleures ?"
+lang-ref: drinking-straws-wrong
+slug: pailles-a-boire-wrong
+title: Les alternatives classiques aux pailles en plastiques sont-elles vraiment
+  meilleures ?
 description: "Les alternatives classiques aux pailles en plastiques (en papier,
   en bambou....) ne sont pas meilleures pour l'environnement et la santé. Mieux
   vaut ne pas utiliser de pailles du tout ou des pailles en seigle bio. "
@@ -14,7 +14,7 @@ tags:
   - pailles inox impact environnement
   - santé sans paille
 image: /assets/images/uploads/omnm-paille-2.png
-date: 2024-10-09T10:43:31.411Z
+date: 2024-10-08T10:43:31.411Z
 comments: true
 layout: post
 lang: fr
