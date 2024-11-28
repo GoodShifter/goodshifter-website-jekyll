@@ -19,7 +19,7 @@
 
 <p>
     <a class="text-muted" href="{{site.url}}{{site.baseurl}}/{{page.lang}}">
-        &copy; 2023 {{site.name}}.
+        &copy; {{ site.time | date: '%Y' }} {{site.name}}.
     </a>
     <span class="text-muted">All Rights Reserved.</span>
     {% comment %}
