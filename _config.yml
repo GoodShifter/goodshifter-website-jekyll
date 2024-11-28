@@ -2,7 +2,8 @@
 name: 'GoodShifter'
 description: 'GoodShifter - The app guiding consumers towards better habits, with small but impactful steps.'
 
-logo: 'assets/images/GoodShifter - Logo v2 Light Shadow - Close - Transparent.png'
+# logo: 'assets/images/GoodShifter - Logo v2 Light Shadow - Close - Transparent.png'
+logo: 'assets/images/GoodShifter Logo - V1.0.png'
 favicon: 'assets/images/favicon.png'
 
 url: "https://goodshifter.com"

@@ -24,4 +24,4 @@ gem "ffi", "~> 1.9"
 source "https://rubygems.org"
 gem 'github-pages'
 
-gem "jekyll"
+gem "jekyll", "~> 3.10"
