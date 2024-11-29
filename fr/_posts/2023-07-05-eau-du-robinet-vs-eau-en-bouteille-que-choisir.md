@@ -12,7 +12,7 @@ tags:
   - PET
   - perturbateur endocrinien
   - cancer
-image: /assets/images/uploads/omnm-eau-4.png
+image: /assets/images/uploads/omnm-eau-ncc.png
 date: 2023-07-05T13:14:08.028Z
 comments: true
 layout: post
