@@ -11,7 +11,7 @@ tags:
   - cancer colorectal
   - additif
   - conservateur
-image: /assets/images/uploads/old-me-2.png
+image: /assets/images/uploads/omnm-jambon-ncc.png
 date: 2023-06-23T13:28:59.315Z
 comments: true
 layout: post
