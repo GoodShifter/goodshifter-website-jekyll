@@ -9,7 +9,7 @@ tags:
   - empreinte carbone
   - viande
   - environmental impact
-image: /assets/images/uploads/omnm-burger-2.png
+image: /assets/images/uploads/omnm-burger-nc.png
 date: 2023-03-21T11:15:33.395Z
 comments: true
 layout: post
