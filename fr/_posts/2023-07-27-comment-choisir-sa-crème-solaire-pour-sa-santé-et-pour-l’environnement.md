@@ -11,7 +11,7 @@ tags:
   - crème solaire
   - environnement
   - santé
-image: /assets/images/uploads/omnm-crème-solaire.png
+image: /assets/images/uploads/omnm-crème-solaire-ncc.png
 date: 2023-07-27T13:29:14.492Z
 comments: true
 layout: post
