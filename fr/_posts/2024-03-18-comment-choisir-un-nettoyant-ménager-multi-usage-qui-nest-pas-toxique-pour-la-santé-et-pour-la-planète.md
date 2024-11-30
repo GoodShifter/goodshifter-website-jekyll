@@ -15,7 +15,7 @@ tags:
   - produits chimiques
   - label
   - ecolabel
-image: /assets/images/uploads/omnm-produits-entretien-1-.png
+image: /assets/images/uploads/omnm-produits-entretien.png
 date: 2024-03-18T13:34:44.358Z
 comments: true
 layout: post
