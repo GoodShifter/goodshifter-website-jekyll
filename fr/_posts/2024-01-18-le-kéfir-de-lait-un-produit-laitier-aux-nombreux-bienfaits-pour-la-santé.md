@@ -12,7 +12,7 @@ tags:
   - probiotiques
   - lait fermenté
   - microbiote
-image: /assets/images/uploads/omnm-yaourt-.png
+image: /assets/images/uploads/omnm-yaourt-ncc.png
 date: 2024-01-18T11:17:30.561Z
 comments: true
 layout: post
