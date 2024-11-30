@@ -10,7 +10,7 @@ tags:
   - dentifrice sans dioxyde de titane
   - dentifrice santé
   - environnement
-image: /assets/images/uploads/omnm-dentifrice-.png
+image: /assets/images/uploads/omnm-dentifrice-nc-.png
 date: 2023-12-14T12:23:33.308Z
 comments: true
 layout: post
