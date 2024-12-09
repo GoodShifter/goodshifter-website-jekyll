@@ -7,7 +7,7 @@ description: Conditions Generales de l'utilisation de l'application mobile GoodS
 image: /assets/images/uploads/goodshifter-logo-v2-light-shadow-square-pink.png
 date: 2024-09-02T20:29:54.872Z
 comments: false
-layout: page
+layout: full_page
 lang: fr
 categories:
   - fr
