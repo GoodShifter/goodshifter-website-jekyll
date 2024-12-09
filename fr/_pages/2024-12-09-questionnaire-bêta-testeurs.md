@@ -9,7 +9,7 @@ tags:
 image: /assets/images/uploads/goodshifter-logo-v1.0-banner-no-margin.png
 date: 2024-12-09T10:48:15.477Z
 comments: false
-layout: page
+layout: full_page
 lang: fr
 categories:
   - fr
