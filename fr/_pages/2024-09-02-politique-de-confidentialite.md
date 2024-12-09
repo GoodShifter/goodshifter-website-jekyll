@@ -27,7 +27,7 @@ La présente Politique de Confidentialité a pour but d’exposer aux utilisateu
 - Les destinataires de ces données ;
 - Éventuellement, la politique du site en matière de fichiers « cookies ».
 
-Cette Politique de Confidentialité complète les mentions légales et les Conditions Générales d’Utilisation consultables à l’adresse suivante : [goodshifter.com/fr/politique-de-confidentialite]({{site.url}}{{site.baseurl}}/{{page.lang}}/politique-de-confidentialite).
+Cette Politique de Confidentialité complète les mentions légales et les Conditions Générales d’Utilisation consultables à l’adresse suivante : [goodshifter.com/fr/conditions-generales]({{site.url}}{{site.baseurl}}/{{page.lang}}/conditions-generales).
 
 ---
 
