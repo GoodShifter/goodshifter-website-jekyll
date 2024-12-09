@@ -13,8 +13,8 @@ categories:
   - fr
 ---
 
-**Conditions Générales d’Utilisation de l’application GoodShifter**  
-En vigueur au 30/07/2024
+# **Conditions Générales d’Utilisation de l’Application GoodShifter**  
+En vigueur au 10/12/2024
 
 ---
 
@@ -38,17 +38,17 @@ En cas de non-acceptation des CGU stipulées dans le présent contrat, l’Utili
 
 ---
 
-#### ARTICLE 1 : Les mentions légales
+### ARTICLE 1 : Les mentions légales
 L’édition de l’application GoodShifter est assurée par la Société SAS GoodShifter inscrite au Registre National des Entreprises (RNE) sous le numéro 951595214 (numéro de TVA intracommunautaire FR91951595214).
 
 Numéro de téléphone : 0652675358  
-Adresse e-mail : hyacinthe.mutin@goodshifter.com.  
+Adresse e-mail : [hyacinthe.mutin@goodshifter.com](mailto:hyacinthe.mutin@goodshifter.com).  
 Le Directeur de la publication est : Hyacinthe Mutin  
 L’hébergeur de l’application GoodShifter est la société OVH, dont le siège social est situé au 2 rue Kellermann – BP 80157 59053 ROUBAIX CEDEX 1, avec le numéro de téléphone : 08 203 203 63.
 
 ---
 
-#### ARTICLE 2 : Accès à l’application
+### ARTICLE 2 : Accès à l’application
 L’application GoodShifter permet à l’Utilisateur un accès gratuit aux services suivants :
 - Analyse de ses achats en termes d’impact social, environnemental et santé ;
 - Proposition d’alternatives aux produits achetés.
@@ -67,12 +67,12 @@ L’Utilisateur peut contacter l’application par messagerie électronique aux 
 
 ---
 
-#### ARTICLE 3 : Collecte des données
-Dans le cadre de l’exploitation de l’application GoodShifter, des données à caractère personnel peuvent être collectées pour permettre le bon fonctionnement des services et l’amélioration de l’expérience utilisateur. Les informations détaillées concernant ces traitements, notamment leur finalité, leur base légale, leur durée de conservation, ainsi que les droits des utilisateurs en matière de données personnelles, sont disponibles dans la **Politique de Confidentialité**, accessible sur le site www.goodshifter.com.
+### ARTICLE 3 : Collecte des données
+Dans le cadre de l’exploitation de l’application GoodShifter, des données à caractère personnel peuvent être collectées pour permettre le bon fonctionnement des services et l’amélioration de l’expérience utilisateur. Les informations détaillées concernant ces traitements, notamment leur finalité, leur base légale, leur durée de conservation, ainsi que les droits des utilisateurs en matière de données personnelles, sont disponibles dans la **[Politique de Confidentialité]({{site.url}}{{site.baseurl}}/{{page.lang}}/politique-de-confidentialite)**.
 
 ---
 
-#### ARTICLE 4 : Propriété intellectuelle
+### ARTICLE 4 : Propriété intellectuelle
 Les marques, logos, signes ainsi que tous les contenus de l’application (textes, images, sons, etc.) font l’objet d’une protection par le Code de la propriété intellectuelle et plus particulièrement par le droit d’auteur.
 
 L’Utilisateur doit solliciter l’autorisation préalable de l’application pour toute reproduction, publication ou copie des différents contenus. Il s’engage à une utilisation des contenus de l’application dans un cadre strictement privé ; toute utilisation à des fins commerciales ou publicitaires est strictement interdite.
@@ -83,7 +83,7 @@ L’application peut intégrer des contenus appartenant à des tiers. GoodShifte
 
 ---
 
-#### ARTICLE 5 : Responsabilité
+### ARTICLE 5 : Responsabilité
 Les sources des informations diffusées sur l’application GoodShifter sont réputées fiables, mais l’application ne garantit pas qu’elles soient exemptes de défauts, d’erreurs ou d’omissions.
 
 Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. GoodShifter ne peut être tenue responsable de l’utilisation et de l’interprétation des informations contenues dans l’application.
@@ -94,14 +94,14 @@ L’Utilisateur s’assure de garder son mot de passe secret et assume les risqu
 
 ---
 
-#### ARTICLE 6 : Liens hypertextes
+### ARTICLE 6 : Liens hypertextes
 Des liens hypertextes peuvent être présents sur l’application. L’Utilisateur est informé qu’en cliquant sur ces liens, il sortira de l’application GoodShifter. GoodShifter n’a pas de contrôle sur les pages web externes et ne saurait, en aucun cas, être responsable de leur contenu.
 
 Certains liens peuvent être issus de partenariats ou d’affiliations. Ces liens sont signalés comme tels, et l’Utilisateur est invité à consulter les conditions d’utilisation des sites partenaires.
 
 ---
 
-#### ARTICLE 7 : Cookies
+### ARTICLE 7 : Cookies
 L’Utilisateur est informé que lors de ses visites sur l’application, des cookies peuvent être installés automatiquement sur son navigateur. Les cookies utilisés peuvent inclure :
 - **Cookies fonctionnels** pour assurer le bon fonctionnement de l’application ;
 - **Cookies analytiques** pour améliorer les services et comprendre les comportements des utilisateurs ;
@@ -111,7 +111,7 @@ L’Utilisateur peut accepter ou refuser l’utilisation de certains cookies via
 
 ---
 
-#### ARTICLE 8 : Droit applicable et juridiction compétente
+### ARTICLE 8 : Droit applicable et juridiction compétente
 La législation française s’applique au présent contrat. En cas d’absence de résolution amiable d’un litige né entre les parties, les tribunaux français seront seuls compétents pour en connaître.
 
 En cas de litige, l’Utilisateur peut recourir à une procédure de médiation conventionnelle ou à tout autre mode alternatif de règlement des différends avant de saisir les tribunaux compétents.
