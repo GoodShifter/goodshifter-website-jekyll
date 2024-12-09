@@ -126,7 +126,7 @@ Le responsable s’engage à :
 
 5. **Droit sur le devenir des données après le décès :** l’utilisateur peut préciser des instructions sur la conservation ou suppression de ses données.
 
-6. **Droit de réclamation :** l’utilisateur peut saisir la CNIL ( https://www.cnil.fr ) en cas de litige.
+6. **Droit de réclamation :** l’utilisateur peut saisir la [CNIL](https://www.cnil.fr) en cas de litige.
 
 #### B. Données personnelles des mineurs
 
