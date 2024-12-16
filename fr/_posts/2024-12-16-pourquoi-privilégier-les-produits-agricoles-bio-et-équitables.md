@@ -9,7 +9,7 @@ tags:
   - agriculture bio
   - produits bio
   - produits équitables
-image: /assets/images/uploads/ingredients-bio-et-équitables-1-.png
+image: /assets/images/uploads/ingredientsbioetequitables.png
 date: 2024-12-16T11:59:14.262Z
 comments: true
 layout: post
