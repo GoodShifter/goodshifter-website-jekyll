@@ -17,8 +17,6 @@ lang: fr
 categories:
   - fr
 ---
-
-
 Aujourd'hui, les choix alimentaires ne sont plus simplement guidés par le prix ou la disponibilité, mais par des valeurs éthiques et environnementales. Choisir des produits agricoles issus de l’agriculture biologique et équitables joue un rôle essentiel pour construire un avenir durable. Mais pourquoi ces choix sont-ils si importants ? Voici quelques raisons clés pour privilégier ces produits.
 
 ### **1. Proteger l’environnement et la biodiversité**
@@ -66,7 +64,7 @@ En choisissant des produits bio et équitables, vous envoyez un message fort aux
 Pour faire des choix éclairés, recherchez des labels fiables tels que :
 
 * **Label Bio** : Comme le label AB (Agriculture Biologique) en France ou le label écologique de l'UE.
-* **Label équitable** : Fairtrade, Max Havelaar ou encore WFTO (World Fair Trade Organization).
+* **Label équitable** : Marque CQLP (C’est Qui Le Patron?),Fairtrade, Max Havelaar...
 * **Autres certifications** : Rainforest Alliance ou Demeter, qui combinent souvent bio et équitable.
 
 ### **Conclusion : un acte citoyen au quotidien**
