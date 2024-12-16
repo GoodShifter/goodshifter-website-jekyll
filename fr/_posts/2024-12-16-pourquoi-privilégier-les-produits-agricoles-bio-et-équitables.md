@@ -1,7 +1,7 @@
 ---
 lang-ref: produits-remuneration-agricole
 slug: produits rémunération agricole
-title: Pourquoi privilégier les produits agricoles bio et équitables?
+title: "Remunération des agriculteurs : privilégiez les produits bio et équitables. "
 description: Choisir des produits agricoles issus de l’agriculture biologique et
   équitables joue un rôle essentiel pour construire un avenir durable
 tags:
