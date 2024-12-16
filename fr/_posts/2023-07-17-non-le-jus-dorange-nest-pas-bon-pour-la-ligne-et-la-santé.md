@@ -11,7 +11,7 @@ tags:
   - minceur
   - environnement
   - ""
-image: /assets/images/uploads/omnm-orange-2.png
+image: /assets/images/uploads/omnm-orange.png
 date: 2023-07-17T08:32:56.072Z
 comments: true
 layout: post
