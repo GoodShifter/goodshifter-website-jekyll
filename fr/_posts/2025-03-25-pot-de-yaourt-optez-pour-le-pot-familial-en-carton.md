@@ -13,7 +13,7 @@ tags:
   - santé
   - pollution plastique
   - recyclage
-image: /assets/images/uploads/omnm-pot-yaourt.png
+image: /assets/images/uploads/omnm-pot-yaourt-2.png
 date: 2025-03-25T14:23:09.323Z
 comments: true
 layout: post
