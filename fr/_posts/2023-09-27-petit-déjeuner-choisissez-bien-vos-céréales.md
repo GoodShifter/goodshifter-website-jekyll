@@ -13,7 +13,7 @@ tags:
   - santé
   - additifs
   - équilibré
-image: /assets/images/uploads/omnm-cereales.png
+image: /assets/images/uploads/omnm-cereales-.png
 date: 2023-09-26T14:43:38.142Z
 comments: true
 layout: post
