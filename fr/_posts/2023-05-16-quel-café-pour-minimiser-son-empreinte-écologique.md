@@ -8,7 +8,7 @@ tags:
   - capsule café
   - capsule biodégradable
   - capsule compostable
-image: /assets/images/uploads/omnm-capsules-cafe.png
+image: /assets/images/uploads/omnm-capsules-cafe-.png
 date: 2023-05-16T12:25:15.509Z
 comments: true
 layout: post
