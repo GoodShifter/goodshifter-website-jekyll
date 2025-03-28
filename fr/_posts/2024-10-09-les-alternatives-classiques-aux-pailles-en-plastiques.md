@@ -1,6 +1,6 @@
 ---
-lang-ref: drinking-straws-wrong
-slug: pailles-a-boire-wrong
+lang-ref: drinking-straws
+slug: pailles-a-boire
 title: Les alternatives classiques aux pailles en plastiques sont-elles vraiment
   meilleures ?
 description: "Les alternatives classiques aux pailles en plastiques (en papier,
