@@ -8,7 +8,7 @@ tags:
   - stainless steel pan
   - PFOA
   - forever pollution
-image: /assets/images/uploads/omnm-pan-new.jpg
+image: /assets/images/uploads/omnm-poele-en-.png
 date: 2023-03-09T13:52:53.879Z
 comments: true
 layout: post
