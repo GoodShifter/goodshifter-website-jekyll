@@ -8,7 +8,7 @@ tags:
   - sustainable coffee
   - biodegradable pod
   - compostable pod
-image: /assets/images/uploads/omnm-coffee.jpg
+image: /assets/images/uploads/omnm-capsules-cafe-en-.png
 date: 2023-05-17T12:53:34.926Z
 comments: true
 layout: post
