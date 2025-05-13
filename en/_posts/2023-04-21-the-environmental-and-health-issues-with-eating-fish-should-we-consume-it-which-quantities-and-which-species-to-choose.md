@@ -1,14 +1,16 @@
 ---
 lang-ref: guide-fish
 slug: the-environmental-and-health-issues-with-eating-fish
-title: "The environmental and health issues with eating fish: Should we consume it? Which quantities and which species to choose?"
-description: "The environmental and health issues with eating fish: Should we consume it? Which quantities and which species to choose?"
+title: "The environmental and health issues with eating fish: Should we consume
+  it? Which quantities and which species to choose?"
+description: "The environmental and health issues with eating fish: Should we
+  consume it? Which quantities and which species to choose?"
 tags:
   - overfishing
   - sustainable fishing
   - omega fatty acids
   - pollutants in fish
-image: /assets/images/uploads/omnm-fish.jpg
+image: /assets/images/uploads/omnm-poisson-en.png
 date: 2023-04-21T10:39:41.193Z
 comments: true
 layout: post
