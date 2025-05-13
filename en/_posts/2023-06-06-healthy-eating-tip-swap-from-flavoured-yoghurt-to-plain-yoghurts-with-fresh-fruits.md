@@ -10,7 +10,7 @@ tags:
   - fruit-flavoured yoghurt
   - healthy yoghurt
   - fruits
-image: /assets/images/uploads/fruits-yogurt.-jpg.jpg
+image: /assets/images/uploads/omnm-yaourt-fruits-en.png
 date: 2023-06-06T16:28:24.786Z
 comments: true
 layout: post
