@@ -9,7 +9,7 @@ tags:
   - plastic
   - pollution
   - planet
-image: /assets/images/uploads/omnm-cling-film-new.jpg
+image: /assets/images/uploads/omnm-film-etirable-en.png
 date: 2023-03-09T13:41:40.023Z
 comments: true
 layout: post
