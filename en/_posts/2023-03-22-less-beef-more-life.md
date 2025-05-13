@@ -9,7 +9,7 @@ tags:
   - environmental impact
   - meat
   - carbon footprint
-image: assets/images/uploads/omnmen-beef.pptx.jpg
+image: /assets/images/uploads/omnm-burger-en-.png
 date: 2023-03-22T15:00:59.242Z
 comments: true
 layout: post
