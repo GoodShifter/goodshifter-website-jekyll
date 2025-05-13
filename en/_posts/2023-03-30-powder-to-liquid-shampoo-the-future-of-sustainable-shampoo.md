@@ -7,7 +7,7 @@ tags:
   - sustainable shampoo
   - solid shampoo
   - waste-free shampoo
-image: assets/images/uploads/omnmen-shampoo.jpg
+image: /assets/images/uploads/omnm-shampoing-en.png
 date: 2023-03-30T13:11:33.614Z
 comments: true
 layout: post
